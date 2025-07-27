@@ -1,77 +1,74 @@
-# The-Role-of-Caffeine-Alcohol-Smoking-Exercise-and-Sleep-Duration-in-Sleep-Efficiency
-# 💤 Sleep Efficiency Analysis
+# 💤 Behavioral Factors Affecting Sleep Efficiency
 
-This project investigates behavioral and physiological factors that influence **sleep efficiency**. Using real-world data, it examines how variables such as caffeine and alcohol consumption, smoking, exercise, and sleep duration affect sleep quality, with a focused analysis on adults aged 20–59.
-
----
-
-## 🧠 Project Highlights
-
-- 🧪 **Statistical Testing**: Linear regression, correlation analysis, t-tests, and hypothesis testing.
-- 📊 **Exploratory Data Analysis**: Insightful visualizations and pattern recognition using Matplotlib/Seaborn.
-- 🧹 **Data Cleaning**: Informed imputation strategies, feature engineering, type validation, and consistency checks.
-- 🎯 **Critical Thinking**: Judicious decisions on data inclusion/exclusion and nuanced interpretation of counterintuitive findings.
-- 💡 **Real-World Insight**: Balanced interpretation of results with domain understanding and limitations.
+This project investigates how behavioral factors—caffeine, alcohol, smoking, exercise, and sleep duration—impact sleep efficiency using a dataset collected from adult participants in Morocco. Through statistical modeling and critical interpretation, the analysis identifies key lifestyle influences on sleep quality.
 
 ---
 
-## 🛠️ Methodology Overview
+## 📊 Key Findings
 
-### 1. 🧼 Data Cleaning & Preparation
-- **Missing Values**:
-  - `Awakenings`: Removed missing records due to observed bias in sleep efficiency.
-  - `Caffeine`, `Alcohol`, `Exercise`: Imputed missing values after comparing relevant distributions (e.g., REM sleep %, awakening patterns).
-- **Data Type Fixes**:
-  - Converted `bedtime` and `wakeup_time` from string to datetime.
-- **Validation**:
-  - Checked sleep stage sums ≈ 100%.
-  - Removed unreliable columns (e.g., Deep/Light sleep %) based on domain standards.
+The regression model explains nearly **29.6%** of the variance in sleep efficiency (Adjusted R² = 0.287), using the five behavioral predictors.
 
-### 2. 🔧 Feature Engineering
-- Added:
-  - `age_group`, `efficiency_level`, `rem_sleep_assessment`, `caffeine_level`, `alcohol_level`, etc.
-- Standardized naming (snake_case) and optimized memory using categorical types.
+### ☕ Caffeine Intake
+Caffeine shows a **small but statistically significant positive effect** on sleep efficiency (β = +0.0235, p = 0.045).  
+This result may reflect confounding lifestyle factors, suggesting the importance of cautious interpretation.
 
-### 3. 📊 Exploratory Data Analysis (EDA)
-- Focused on **Adults (20–59)** due to their 89% representation in the dataset.
-- Analyzed correlations, distributions, and behaviors across sleep metrics.
-- Conducted comparative weekday/weekend and monthly analyses.
+### 🍷 Alcohol Use
+Alcohol consumption is **strongly associated with reduced sleep efficiency** (β = −0.1002, p < 0.001), confirming its negative impact on sleep quality.
 
-### 4. 📈 Statistical Modeling
-- Built an OLS linear regression model to predict sleep efficiency using:
-  - `caffeine`, `alcohol`, `smoking_status`, `exercise_score`, and `sleep_duration`.
-- Conducted t-tests (e.g., smoking vs. non-smoking) and Pearson correlation checks.
+### 🚬 Smoking Status
+Smoking significantly **lowers sleep efficiency** (β = −0.0896, p < 0.001).  
+This is reinforced by an independent **t-test** showing a significant difference between smokers and non-smokers (t = -7.222, p < 0.001).
+
+### 🏃 Exercise Frequency
+Exercise frequency is a **positive predictor** of sleep efficiency (β = +0.0348, p = 0.001), supporting the benefit of physical activity on sleep.
+
+### 🛌 Sleep Duration
+Surprisingly, sleep duration is **not a significant predictor** (β = +0.0041, p = 0.547) and shows negligible correlation with efficiency (r = 0.002, p = 0.970).
 
 ---
 
-## 🔍 Key Findings
+## 💡 Analytical Thinking & Critical Reasoning
 
-| Factor              | Effect on Sleep Efficiency           | Notes                                                                 |
-|---------------------|--------------------------------------|-----------------------------------------------------------------------|
-| **Awakenings**      | Strong negative (-0.57)              | More awakenings = poorer sleep efficiency                             |
-| **Alcohol**         | Strong negative (-0.43)              | Higher consumption correlates with worse sleep efficiency             |
-| **Smoking**         | Significant negative impact          | Confirmed by t-test (p < 0.001)                                       |
-| **Exercise**        | Moderate positive                    | More frequent exercise linked to better sleep efficiency              |
-| **Caffeine**        | Weak positive                        | Moderate intake had highest average sleep efficiency (unexpected)     |
-| **Sleep Duration**  | No clear correlation (~0.002)        | Likely due to limited variability (mostly 7–9 hours)                  |
-| **Weekday vs Weekend** | No significant differences         | Sleep patterns remained consistent across days                        |
+### 🔎 Used Multivariate Modeling Over Simple Correlation
+Instead of analyzing variables in isolation, I applied a **multiple regression model** to understand how behaviors interact and jointly affect sleep.  
+→ *Demonstrates statistical depth and modeling intuition.*
 
----
+### 🧠 Interpreted Unexpected Results with Caution
+Caffeine showed a surprising positive impact. I **didn’t accept it blindly** but discussed how it might reflect healthier routines or unobserved variables.  
+→ *Exhibits critical thinking and domain reasoning.*
 
-## ⚠️ Limitations & Future Work
+### ✅ Verified Findings with T-Test
+To **cross-validate** the impact of smoking, I performed a t-test alongside the regression. Both methods confirmed the result.  
+→ *Shows rigor and analytical reliability.*
 
-This analysis offers strong insights, but several constraints should be noted:
+### ⚠️ Transparent About Limitations
+I addressed limitations such as **age range**, **geographic scope**, and **measurement ambiguity**.  
+→ *Reflects scientific integrity and awareness of generalizability.*
 
-- 📍 **Population Bias**: The dataset only includes adults aged 20–59 from Morocco.
-- 🧪 **Measurement Uncertainty**: The methodology for calculating sleep efficiency is not documented.
-- 📉 **Limited Factor Variability**: Distributions (e.g., sleep duration, caffeine) lacked diversity.
-- ❓ **Unexpected Results**: Known relationships (e.g., caffeine → poor sleep) were not reflected, warranting further investigation.
-- 🧪 **Future Studies Needed**: A broader dataset, spanning multiple age groups, geographies, and with validated measurement tools, would offer deeper insights.
+### 🔄 Acknowledged Deviations from Known Research
+The lack of a relationship between sleep duration and efficiency **contradicts expectations**. I flagged this for future investigation instead of dismissing it.  
+→ *Indicates humility, openness, and evidence-based reasoning.*
 
 ---
 
+## ✅ Recommendations
 
+- **Individuals:** Limit alcohol use, avoid smoking, and engage in regular physical activity to support sleep efficiency.
+- **Healthcare Providers:** Incorporate behavioral assessments in sleep evaluations and advise on lifestyle changes.
+- **Public Health Officials:** Design policies and interventions promoting smoking cessation, reduced alcohol use, and exercise habits to improve community sleep health.
 
+---
 
+## 🔮 Limitations & Future Work
+
+- Data is limited to Moroccan adults aged 20–59.
+- The measurement methodology of sleep efficiency was not described.
+- Cultural and lifestyle specificity may limit broader application.
+- Some results (e.g., caffeine and sleep duration) may be affected by data constraints or skewed variable distributions.
+
+**Future research** should:
+- Use larger and more diverse datasets across multiple countries
+- Include detailed documentation of measurement tools
+- Explore interaction effects and temporal patterns
 
 

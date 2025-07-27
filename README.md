@@ -10,7 +10,6 @@ The regression model explains nearly **29.6%** of the variance in sleep efficien
 
 ### ☕ Caffeine Intake
 Caffeine shows a **small but statistically significant positive effect** on sleep efficiency (β = +0.0235, p = 0.045).  
-This result may reflect confounding lifestyle factors, suggesting the importance of cautious interpretation.
 
 ### 🍷 Alcohol Use
 Alcohol consumption is **strongly associated with reduced sleep efficiency** (β = −0.1002, p < 0.001), confirming its negative impact on sleep quality.
@@ -29,25 +28,21 @@ Surprisingly, sleep duration is **not a significant predictor** (β = +0.0041, p
 
 ## 💡 Analytical Thinking & Critical Reasoning
 
-### 🔎 Used Multivariate Modeling Over Simple Correlation
-Instead of analyzing variables in isolation, I applied a **multiple regression model** to understand how behaviors interact and jointly affect sleep.  
-→ *Demonstrates statistical depth and modeling intuition.*
+### 🔎 Applied Multivariate Modeling for Deeper Insights  
+Rather than relying on isolated variable analysis, a **multiple linear regression model** was implemented to examine the **combined influence** of behavioral factors on sleep efficiency. This allowed for a more comprehensive understanding of how predictors interact.
 
-### 🧠 Interpreted Unexpected Results with Caution
-Caffeine showed a surprising positive impact. I **didn’t accept it blindly** but discussed how it might reflect healthier routines or unobserved variables.  
-→ *Exhibits critical thinking and domain reasoning.*
+### 🧠 Interpreted Unexpected Findings with Nuance  
+Caffeine intake exhibited a **positive association** with sleep efficiency, contrary to prior literature. Rather than assuming causality, this result was **interpreted with caution**
 
-### ✅ Verified Findings with T-Test
-To **cross-validate** the impact of smoking, I performed a t-test alongside the regression. Both methods confirmed the result.  
-→ *Shows rigor and analytical reliability.*
+### ✅ Employed Cross-Validation to Reinforce Results  
+To **support the regression finding** that smoking negatively impacts sleep efficiency, a **two-sample t-test** was conducted. Both analyses independently yielded significant results, reinforcing the conclusion and enhancing robustness.
 
-### ⚠️ Transparent About Limitations
-I addressed limitations such as **age range**, **geographic scope**, and **measurement ambiguity**.  
-→ *Reflects scientific integrity and awareness of generalizability.*
+### ⚠️ Explicitly Acknowledged Dataset Limitations  
+Key limitations—such as the **restricted age range** (20–59), **geographic specificity** (Moroccan population), and the **lack of transparency regarding measurement tools**—were explicitly identified. These factors were recognized as potentially affecting the **generalizability and reliability** of findings.
 
-### 🔄 Acknowledged Deviations from Known Research
-The lack of a relationship between sleep duration and efficiency **contradicts expectations**. I flagged this for future investigation instead of dismissing it.  
-→ *Indicates humility, openness, and evidence-based reasoning.*
+### 🔄 Flagged Deviations from Established Literature  
+The **absence of a significant relationship** between sleep duration and efficiency was noted, despite prior evidence suggesting otherwise. This deviation was **flagged for future research**, highlighting the need for further validation with broader and more diverse datasets.
+
 
 ---
 

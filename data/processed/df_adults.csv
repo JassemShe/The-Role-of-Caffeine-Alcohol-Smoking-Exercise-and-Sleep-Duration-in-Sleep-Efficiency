@@ -1,0 +1,384 @@
+,id,age,age_group,gender,date,bedtime_time,wakeup_time,sleep_duration,sleep_category,sleep_efficiency,efficiency_level,rem_sleep_percentage,rem_sleep_assessment,awakenings,awakening_level,caffeine_consumption,caffeine_level,alcohol_consumption,alcohol_level,smoking_status,exercise_frequency,exercise_level,day_type,bedtime_hour,bedtime_shifted,wakeup_decimal,month
+2,3,40,Adults (20–59),Female,2021-05-25,21:30:00,05:30:00,8.0,7–9,0.89,High,20,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.5,21.5,5.5,5
+3,4,40,Adults (20–59),Female,2021-11-03,02:30:00,08:30:00,6.0,Below 7,0.51,Low,23,Within Recommended,3.0,Typical,50.0,Moderate,5.0,High,Yes,1.0,Some (1–3 sessions),Weekday,2.5,26.5,8.5,11
+4,5,57,Adults (20–59),Male,2021-03-13,01:00:00,09:00:00,8.0,7–9,0.76,Moderate,27,Above Recommended,3.0,Typical,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekend,1.0,25.0,9.0,3
+5,6,36,Adults (20–59),Female,2021-07-01,21:00:00,04:30:00,7.5,7–9,0.9,High,23,Within Recommended,0.0,Better than average,0.0,None,0.0,None,No,1.0,Some (1–3 sessions),Weekday,21.0,21.0,4.5,7
+6,7,27,Adults (20–59),Female,2021-07-21,21:00:00,03:00:00,6.0,Below 7,0.54,Low,28,Above Recommended,2.0,Typical,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,21.0,21.0,3.0,7
+7,8,53,Adults (20–59),Male,2021-08-16,00:30:00,10:30:00,10.0,Above 9,0.9,High,28,Above Recommended,0.0,Better than average,50.0,Moderate,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,0.5,24.5,10.5,8
+8,9,41,Adults (20–59),Female,2021-04-05,02:30:00,08:30:00,6.0,Below 7,0.79,Moderate,28,Above Recommended,3.0,Typical,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,2.5,26.5,8.5,4
+10,11,50,Adults (20–59),Male,2021-02-28,00:30:00,08:30:00,8.0,7–9,0.92,High,23,Within Recommended,1.0,Typical,50.0,Moderate,0.0,None,Yes,3.0,Some (1–3 sessions),Weekend,0.5,24.5,8.5,2
+11,12,55,Adults (20–59),Male,2021-03-10,22:30:00,06:00:00,7.5,7–9,0.93,High,18,Below Recommended,0.0,Better than average,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,22.5,22.5,6.0,3
+12,13,30,Adults (20–59),Female,2021-08-07,02:30:00,11:30:00,9.0,7–9,0.93,High,24,Within Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekend,2.5,26.5,11.5,8
+13,14,28,Adults (20–59),Male,2021-02-25,01:00:00,09:30:00,8.5,7–9,0.64,Low,28,Above Recommended,4.0,Outside typical range,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,1.0,25.0,9.5,2
+14,15,36,Adults (20–59),Female,2021-07-03,01:30:00,10:00:00,8.5,7–9,0.54,Low,20,Within Recommended,2.0,Typical,25.0,Low,1.0,Low,Yes,0.0,None (0 sessions),Weekend,1.5,25.5,10.0,7
+15,16,32,Adults (20–59),Female,2021-12-06,22:00:00,05:30:00,7.5,7–9,0.92,High,25,Within Recommended,0.0,Better than average,50.0,Moderate,2.0,Low,No,5.0,Frequent (4–5 sessions),Weekday,22.0,22.0,5.5,12
+16,17,21,Adults (20–59),Female,2021-03-24,01:00:00,08:00:00,7.0,7–9,0.54,Low,28,Above Recommended,4.0,Outside typical range,0.0,None,2.0,Low,Yes,0.0,None (0 sessions),Weekday,1.0,25.0,8.0,3
+17,18,40,Adults (20–59),Female,2021-08-27,23:00:00,06:30:00,7.5,7–9,0.5,Low,18,Below Recommended,3.0,Typical,50.0,Moderate,2.0,Low,Yes,3.0,Some (1–3 sessions),Weekday,23.0,23.0,6.5,8
+18,19,43,Adults (20–59),Female,2021-07-27,00:00:00,09:00:00,9.0,7–9,0.98,High,20,Within Recommended,0.0,Better than average,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekday,0.0,24.0,9.0,7
+19,21,24,Adults (20–59),Male,2021-05-02,00:00:00,08:00:00,8.0,7–9,0.83,Moderate,15,Below Recommended,3.0,Typical,0.0,None,0.0,None,No,2.0,Some (1–3 sessions),Weekend,0.0,24.0,8.0,5
+20,22,32,Adults (20–59),Male,2021-06-14,02:30:00,10:00:00,7.5,7–9,0.71,Moderate,23,Within Recommended,3.0,Typical,50.0,Moderate,4.0,Moderate,No,1.0,Some (1–3 sessions),Weekday,2.5,26.5,10.0,6
+21,23,29,Adults (20–59),Female,2021-12-23,22:00:00,06:00:00,8.0,7–9,0.84,Moderate,23,Within Recommended,2.0,Typical,75.0,Moderate,0.0,None,No,2.0,Some (1–3 sessions),Weekday,22.0,22.0,6.0,12
+23,25,24,Adults (20–59),Male,2021-09-16,00:00:00,07:00:00,7.0,7–9,0.88,High,15,Below Recommended,1.0,Typical,0.0,None,5.0,High,No,2.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,9
+24,26,52,Adults (20–59),Male,2021-03-26,00:00:00,06:00:00,6.0,Below 7,0.91,High,18,Below Recommended,1.0,Typical,0.0,None,0.0,None,No,2.0,Some (1–3 sessions),Weekday,0.0,24.0,6.0,3
+25,27,36,Adults (20–59),Female,2021-06-18,00:00:00,07:00:00,7.0,7–9,0.95,High,28,Above Recommended,0.0,Better than average,0.0,None,0.0,None,No,1.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,6
+26,28,35,Adults (20–59),Male,2021-12-15,02:30:00,09:30:00,7.0,7–9,0.84,Moderate,24,Within Recommended,2.0,Typical,0.0,None,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,2.5,26.5,9.5,12
+27,29,23,Adults (20–59),Male,2021-11-08,21:30:00,06:30:00,9.0,7–9,0.65,Low,27,Above Recommended,3.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.5,21.5,6.5,11
+28,30,47,Adults (20–59),Female,2021-12-25,22:30:00,05:30:00,7.0,7–9,0.91,High,20,Within Recommended,1.0,Typical,0.0,None,3.0,Moderate,No,4.0,Frequent (4–5 sessions),Weekend,22.5,22.5,5.5,12
+29,31,24,Adults (20–59),Male,2021-08-10,00:00:00,07:00:00,7.0,7–9,0.57,Low,27,Above Recommended,3.0,Typical,0.0,None,1.0,Low,Yes,3.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,8
+31,33,26,Adults (20–59),Male,2021-03-26,00:00:00,07:00:00,7.0,7–9,0.55,Low,23,Within Recommended,3.0,Typical,0.0,None,4.0,Moderate,Yes,0.0,None (0 sessions),Weekday,0.0,24.0,7.0,3
+32,34,37,Adults (20–59),Female,2021-11-28,00:30:00,07:30:00,7.0,7–9,0.9,High,28,Above Recommended,0.0,Better than average,25.0,Low,1.0,Low,Yes,0.0,None (0 sessions),Weekend,0.5,24.5,7.5,11
+33,35,46,Adults (20–59),Female,2021-07-28,21:30:00,05:00:00,7.5,7–9,0.94,High,25,Within Recommended,0.0,Better than average,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.5,21.5,5.0,7
+35,37,38,Adults (20–59),Male,2021-08-06,22:00:00,05:00:00,7.0,7–9,0.87,High,18,Below Recommended,1.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,8
+36,38,20,Adults (20–59),Female,2021-09-05,00:00:00,09:00:00,9.0,7–9,0.82,Moderate,26,Above Recommended,4.0,Outside typical range,0.0,None,0.0,None,No,1.0,Some (1–3 sessions),Weekend,0.0,24.0,9.0,9
+37,39,28,Adults (20–59),Female,2021-06-19,00:00:00,07:30:00,7.5,7–9,0.87,High,28,Above Recommended,1.0,Typical,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekend,0.0,24.0,7.5,6
+38,40,58,Adults (20–59),Female,2021-03-26,02:00:00,09:00:00,7.0,7–9,0.63,Low,22,Within Recommended,3.0,Typical,50.0,Moderate,3.0,Moderate,No,0.0,None (0 sessions),Weekday,2.0,26.0,9.0,3
+39,41,46,Adults (20–59),Male,2021-07-29,22:00:00,04:00:00,6.0,Below 7,0.83,Moderate,22,Within Recommended,3.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,22.0,22.0,4.0,7
+40,42,52,Adults (20–59),Male,2021-05-08,01:30:00,07:30:00,6.0,Below 7,0.83,Moderate,20,Within Recommended,1.0,Typical,25.0,Low,0.0,None,Yes,1.0,Some (1–3 sessions),Weekend,1.5,25.5,7.5,5
+41,43,29,Adults (20–59),Female,2021-06-27,00:00:00,10:00:00,10.0,Above 9,0.59,Low,28,Above Recommended,2.0,Typical,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekend,0.0,24.0,10.0,6
+42,44,31,Adults (20–59),Female,2021-08-13,22:30:00,06:00:00,7.5,7–9,0.87,High,23,Within Recommended,1.0,Typical,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,22.5,22.5,6.0,8
+43,45,34,Adults (20–59),Female,2021-12-10,23:00:00,07:00:00,8.0,7–9,0.77,Moderate,22,Within Recommended,3.0,Typical,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekday,23.0,23.0,7.0,12
+44,46,40,Adults (20–59),Female,2021-04-07,01:30:00,08:30:00,7.0,7–9,0.86,High,19,Below Recommended,1.0,Typical,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,1.5,25.5,8.5,4
+45,47,55,Adults (20–59),Male,2021-04-20,00:00:00,08:00:00,8.0,7–9,0.91,High,23,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,8.0,4
+46,48,27,Adults (20–59),Female,2021-04-11,00:00:00,07:30:00,7.5,7–9,0.71,Moderate,28,Above Recommended,1.0,Typical,50.0,Moderate,1.0,Low,Yes,1.0,Some (1–3 sessions),Weekend,0.0,24.0,7.5,4
+47,49,21,Adults (20–59),Female,2021-08-01,00:00:00,08:00:00,8.0,7–9,0.81,Moderate,23,Within Recommended,3.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekend,0.0,24.0,8.0,8
+48,50,37,Adults (20–59),Female,2021-04-10,21:30:00,04:30:00,7.0,7–9,0.81,Moderate,25,Within Recommended,1.0,Typical,0.0,None,5.0,High,No,4.0,Frequent (4–5 sessions),Weekend,21.5,21.5,4.5,4
+49,51,29,Adults (20–59),Female,2021-11-24,22:00:00,05:00:00,7.0,7–9,0.71,Moderate,22,Within Recommended,1.0,Typical,25.0,Low,0.0,None,No,2.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,11
+54,56,37,Adults (20–59),Male,2021-12-04,22:00:00,07:00:00,9.0,7–9,0.84,Moderate,18,Below Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekend,22.0,22.0,7.0,12
+55,57,54,Adults (20–59),Male,2021-09-22,01:00:00,09:00:00,8.0,7–9,0.99,High,27,Above Recommended,1.0,Typical,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekday,1.0,25.0,9.0,9
+56,58,43,Adults (20–59),Male,2021-03-20,02:00:00,09:30:00,7.5,7–9,0.91,High,23,Within Recommended,1.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekend,2.0,26.0,9.5,3
+57,59,34,Adults (20–59),Female,2021-11-07,01:30:00,08:30:00,7.0,7–9,0.71,Moderate,22,Within Recommended,3.0,Typical,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekend,1.5,25.5,8.5,11
+58,60,34,Adults (20–59),Female,2021-08-08,21:00:00,04:30:00,7.5,7–9,0.8,Moderate,28,Above Recommended,4.0,Outside typical range,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekend,21.0,21.0,4.5,8
+59,61,32,Adults (20–59),Female,2021-06-11,02:30:00,10:00:00,7.5,7–9,0.95,High,28,Above Recommended,1.0,Typical,0.0,None,0.0,None,No,1.0,Some (1–3 sessions),Weekday,2.5,26.5,10.0,6
+60,62,56,Adults (20–59),Male,2021-09-30,22:30:00,05:30:00,7.0,7–9,0.91,High,18,Below Recommended,0.0,Better than average,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,22.5,22.5,5.5,9
+61,63,29,Adults (20–59),Male,2021-05-03,21:00:00,05:00:00,8.0,7–9,0.81,Moderate,15,Below Recommended,1.0,Typical,200.0,High,0.0,None,No,0.0,None (0 sessions),Weekday,21.0,21.0,5.0,5
+62,64,35,Adults (20–59),Female,2021-05-08,21:00:00,04:30:00,7.5,7–9,0.93,High,28,Above Recommended,1.0,Typical,0.0,None,0.0,None,No,1.0,Some (1–3 sessions),Weekend,21.0,21.0,4.5,5
+63,65,30,Adults (20–59),Male,2021-04-24,01:30:00,09:00:00,7.5,7–9,0.85,High,20,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekend,1.5,25.5,9.0,4
+64,66,21,Adults (20–59),Male,2021-02-21,01:00:00,09:00:00,8.0,7–9,0.77,Moderate,19,Below Recommended,4.0,Outside typical range,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekend,1.0,25.0,9.0,2
+65,67,25,Adults (20–59),Male,2021-07-16,00:00:00,07:00:00,7.0,7–9,0.84,Moderate,15,Below Recommended,4.0,Outside typical range,0.0,None,4.0,Moderate,No,2.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,7
+66,68,52,Adults (20–59),Male,2021-12-24,01:30:00,09:00:00,7.5,7–9,0.87,High,18,Below Recommended,0.0,Better than average,25.0,Low,2.0,Low,No,1.0,Some (1–3 sessions),Weekday,1.5,25.5,9.0,12
+67,69,46,Adults (20–59),Male,2021-05-07,00:00:00,07:00:00,7.0,7–9,0.8,Moderate,18,Below Recommended,2.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,7.0,5
+68,70,40,Adults (20–59),Male,2021-09-23,22:00:00,04:00:00,6.0,Below 7,0.52,Low,20,Within Recommended,2.0,Typical,0.0,None,2.0,Low,Yes,3.0,Some (1–3 sessions),Weekday,22.0,22.0,4.0,9
+69,71,30,Adults (20–59),Female,2021-06-08,02:30:00,10:00:00,7.5,7–9,0.54,Low,28,Above Recommended,1.0,Typical,50.0,Moderate,3.0,Moderate,Yes,1.0,Some (1–3 sessions),Weekday,2.5,26.5,10.0,6
+70,72,32,Adults (20–59),Female,2021-11-26,23:00:00,06:00:00,7.0,7–9,0.88,High,18,Below Recommended,1.0,Typical,50.0,Moderate,2.0,Low,No,4.0,Frequent (4–5 sessions),Weekday,23.0,23.0,6.0,11
+71,73,55,Adults (20–59),Male,2021-02-28,21:30:00,03:30:00,6.0,Below 7,0.64,Low,20,Within Recommended,1.0,Typical,0.0,None,4.0,Moderate,Yes,3.0,Some (1–3 sessions),Weekend,21.5,21.5,3.5,2
+72,74,58,Adults (20–59),Male,2021-05-25,02:30:00,10:00:00,7.5,7–9,0.87,High,23,Within Recommended,0.0,Better than average,25.0,Low,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,2.5,26.5,10.0,5
+73,75,47,Adults (20–59),Male,2021-12-23,22:00:00,05:00:00,7.0,7–9,0.77,Moderate,22,Within Recommended,4.0,Outside typical range,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,22.0,22.0,5.0,12
+74,76,44,Adults (20–59),Male,2021-12-16,00:30:00,09:00:00,8.5,7–9,0.68,Low,26,Above Recommended,2.0,Typical,0.0,None,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,0.5,24.5,9.0,12
+75,77,47,Adults (20–59),Female,2021-09-02,21:00:00,04:00:00,7.0,7–9,0.94,High,30,Above Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.0,21.0,4.0,9
+76,78,46,Adults (20–59),Male,2021-01-11,02:00:00,11:00:00,9.0,7–9,0.7,Moderate,18,Below Recommended,1.0,Typical,0.0,None,5.0,High,Yes,3.0,Some (1–3 sessions),Weekday,2.0,26.0,11.0,1
+77,79,43,Adults (20–59),Male,2021-03-04,22:00:00,05:00:00,7.0,7–9,0.79,Moderate,20,Within Recommended,4.0,Outside typical range,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,3
+78,80,54,Adults (20–59),Male,2021-05-19,02:30:00,10:00:00,7.5,7–9,0.77,Moderate,23,Within Recommended,3.0,Typical,0.0,None,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,2.5,26.5,10.0,5
+79,81,55,Adults (20–59),Male,2021-07-14,01:30:00,10:00:00,8.5,7–9,0.86,High,20,Within Recommended,1.0,Typical,25.0,Low,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,1.5,25.5,10.0,7
+80,82,29,Adults (20–59),Male,2021-07-11,21:00:00,04:30:00,7.5,7–9,0.81,Moderate,15,Below Recommended,2.0,Typical,200.0,High,0.0,None,No,2.0,Some (1–3 sessions),Weekend,21.0,21.0,4.5,7
+82,84,40,Adults (20–59),Female,2021-12-04,22:30:00,06:30:00,8.0,7–9,0.78,Moderate,22,Within Recommended,4.0,Outside typical range,25.0,Low,0.0,None,No,3.0,Some (1–3 sessions),Weekend,22.5,22.5,6.5,12
+83,85,50,Adults (20–59),Male,2021-09-26,22:00:00,04:00:00,6.0,Below 7,0.64,Low,22,Within Recommended,4.0,Outside typical range,0.0,None,3.0,Moderate,No,0.0,None (0 sessions),Weekend,22.0,22.0,4.0,9
+84,87,50,Adults (20–59),Male,2021-04-09,00:00:00,07:00:00,7.0,7–9,0.78,Moderate,22,Within Recommended,2.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,7.0,4
+85,88,50,Adults (20–59),Male,2021-04-14,00:00:00,07:00:00,7.0,7–9,0.71,Moderate,26,Above Recommended,3.0,Typical,0.0,None,3.0,Moderate,No,0.0,None (0 sessions),Weekday,0.0,24.0,7.0,4
+86,89,48,Adults (20–59),Male,2021-08-28,02:00:00,09:30:00,7.5,7–9,0.97,High,23,Within Recommended,0.0,Better than average,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekend,2.0,26.0,9.5,8
+87,90,24,Adults (20–59),Female,2021-11-26,00:00:00,07:30:00,7.5,7–9,0.77,Moderate,26,Above Recommended,4.0,Outside typical range,25.0,Low,0.0,None,No,1.0,Some (1–3 sessions),Weekday,0.0,24.0,7.5,11
+88,91,45,Adults (20–59),Male,2021-03-29,02:30:00,07:30:00,5.0,Below 7,0.8,Moderate,24,Within Recommended,4.0,Outside typical range,0.0,None,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,2.5,26.5,7.5,3
+89,92,57,Adults (20–59),Male,2021-08-20,21:30:00,05:30:00,8.0,7–9,0.94,High,27,Above Recommended,0.0,Better than average,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekday,21.5,21.5,5.5,8
+90,93,39,Adults (20–59),Male,2021-08-25,21:00:00,04:00:00,7.0,7–9,0.52,Low,18,Below Recommended,3.0,Typical,0.0,None,3.0,Moderate,Yes,3.0,Some (1–3 sessions),Weekday,21.0,21.0,4.0,8
+91,94,43,Adults (20–59),Male,2021-10-23,22:00:00,05:00:00,7.0,7–9,0.76,Moderate,22,Within Recommended,4.0,Outside typical range,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekend,22.0,22.0,5.0,10
+92,95,51,Adults (20–59),Male,2021-08-12,00:00:00,07:30:00,7.5,7–9,0.73,Moderate,22,Within Recommended,4.0,Outside typical range,0.0,None,3.0,Moderate,No,0.0,None (0 sessions),Weekday,0.0,24.0,7.5,8
+94,97,41,Adults (20–59),Male,2021-02-15,21:00:00,04:00:00,7.0,7–9,0.96,High,28,Above Recommended,0.0,Better than average,200.0,High,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.0,21.0,4.0,2
+95,98,53,Adults (20–59),Male,2021-11-02,23:00:00,06:30:00,7.5,7–9,0.91,High,22,Within Recommended,1.0,Typical,25.0,Low,0.0,None,No,2.0,Some (1–3 sessions),Weekday,23.0,23.0,6.5,11
+96,99,32,Adults (20–59),Female,2021-01-12,02:00:00,11:00:00,9.0,7–9,0.8,Moderate,20,Within Recommended,2.0,Typical,25.0,Low,0.0,None,No,0.0,None (0 sessions),Weekday,2.0,26.0,11.0,1
+98,101,38,Adults (20–59),Female,2021-09-02,00:30:00,08:30:00,8.0,7–9,0.81,Moderate,28,Above Recommended,1.0,Typical,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekday,0.5,24.5,8.5,9
+99,102,53,Adults (20–59),Male,2021-01-28,01:00:00,09:30:00,8.5,7–9,0.71,Moderate,20,Within Recommended,4.0,Outside typical range,0.0,None,1.0,Low,No,3.0,Some (1–3 sessions),Weekday,1.0,25.0,9.5,1
+100,103,55,Adults (20–59),Female,2021-12-30,00:00:00,08:00:00,8.0,7–9,0.95,High,23,Within Recommended,1.0,Typical,25.0,Low,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,8.0,12
+101,104,44,Adults (20–59),Female,2021-11-18,23:00:00,05:00:00,6.0,Below 7,0.64,Low,20,Within Recommended,4.0,Outside typical range,25.0,Low,5.0,High,No,0.0,None (0 sessions),Weekday,23.0,23.0,5.0,11
+102,105,38,Adults (20–59),Female,2021-06-13,23:00:00,05:00:00,6.0,Below 7,0.94,High,28,Above Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekend,23.0,23.0,5.0,6
+103,106,40,Adults (20–59),Female,2021-12-07,22:00:00,06:00:00,8.0,7–9,0.87,High,22,Within Recommended,0.0,Better than average,25.0,Low,0.0,None,No,3.0,Some (1–3 sessions),Weekday,22.0,22.0,6.0,12
+104,107,53,Adults (20–59),Male,2021-05-19,21:00:00,04:00:00,7.0,7–9,0.63,Low,25,Within Recommended,3.0,Typical,0.0,None,5.0,High,No,2.0,Some (1–3 sessions),Weekday,21.0,21.0,4.0,5
+105,108,24,Adults (20–59),Male,2021-04-03,00:30:00,09:00:00,8.5,7–9,0.88,High,19,Below Recommended,0.0,Better than average,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekend,0.5,24.5,9.0,4
+106,109,39,Adults (20–59),Female,2021-10-22,23:00:00,07:00:00,8.0,7–9,0.9,High,22,Within Recommended,1.0,Typical,50.0,Moderate,2.0,Low,No,4.0,Frequent (4–5 sessions),Weekday,23.0,23.0,7.0,10
+107,110,47,Adults (20–59),Male,2021-12-30,00:30:00,08:00:00,7.5,7–9,0.94,High,23,Within Recommended,1.0,Typical,50.0,Moderate,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,0.5,24.5,8.0,12
+108,111,51,Adults (20–59),Male,2021-06-18,00:30:00,05:30:00,5.0,Below 7,0.91,High,23,Within Recommended,1.0,Typical,50.0,Moderate,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,0.5,24.5,5.5,6
+109,112,25,Adults (20–59),Male,2021-10-26,23:00:00,06:00:00,7.0,7–9,0.9,High,20,Within Recommended,0.0,Better than average,100.0,High,0.0,None,No,3.0,Some (1–3 sessions),Weekday,23.0,23.0,6.0,10
+110,113,23,Adults (20–59),Male,2021-10-07,23:00:00,07:00:00,8.0,7–9,0.8,Moderate,15,Below Recommended,4.0,Outside typical range,75.0,Moderate,0.0,None,No,2.0,Some (1–3 sessions),Weekday,23.0,23.0,7.0,10
+111,114,54,Adults (20–59),Male,2021-11-19,01:30:00,07:30:00,6.0,Below 7,0.85,High,20,Within Recommended,1.0,Typical,25.0,Low,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,1.5,25.5,7.5,11
+112,115,32,Adults (20–59),Male,2021-07-02,00:30:00,09:00:00,8.5,7–9,0.89,High,19,Below Recommended,1.0,Typical,0.0,None,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,0.5,24.5,9.0,7
+113,116,22,Adults (20–59),Male,2021-08-04,00:00:00,07:00:00,7.0,7–9,0.53,Low,27,Above Recommended,2.0,Typical,0.0,None,5.0,High,Yes,3.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,8
+114,117,50,Adults (20–59),Male,2021-04-29,00:30:00,08:30:00,8.0,7–9,0.87,High,28,Above Recommended,1.0,Typical,50.0,Moderate,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,0.5,24.5,8.5,4
+115,118,30,Adults (20–59),Male,2021-10-11,21:30:00,05:30:00,8.0,7–9,0.5,Low,20,Within Recommended,1.0,Typical,0.0,None,5.0,High,Yes,0.0,None (0 sessions),Weekday,21.5,21.5,5.5,10
+116,119,52,Adults (20–59),Male,2021-11-25,22:30:00,05:30:00,7.0,7–9,0.93,High,20,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,22.5,22.5,5.5,11
+117,120,52,Adults (20–59),Male,2021-07-25,21:30:00,04:30:00,7.0,7–9,0.72,Moderate,20,Within Recommended,2.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekend,21.5,21.5,4.5,7
+118,121,51,Adults (20–59),Male,2021-07-24,22:30:00,04:30:00,6.0,Below 7,0.92,High,20,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekend,22.5,22.5,4.5,7
+120,123,48,Adults (20–59),Male,2021-04-26,00:00:00,07:00:00,7.0,7–9,0.93,High,22,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,7.0,4
+121,125,56,Adults (20–59),Male,2021-10-29,02:00:00,09:00:00,7.0,7–9,0.63,Low,20,Within Recommended,3.0,Typical,0.0,None,2.0,Low,Yes,3.0,Some (1–3 sessions),Weekday,2.0,26.0,9.0,10
+122,126,25,Adults (20–59),Male,2021-05-31,22:30:00,06:30:00,8.0,7–9,0.77,Moderate,28,Above Recommended,2.0,Typical,25.0,Low,0.0,None,No,3.0,Some (1–3 sessions),Weekday,22.5,22.5,6.5,5
+123,127,54,Adults (20–59),Male,2021-01-29,00:00:00,07:00:00,7.0,7–9,0.51,Low,23,Within Recommended,3.0,Typical,0.0,None,0.0,None,Yes,0.0,None (0 sessions),Weekday,0.0,24.0,7.0,1
+124,128,37,Adults (20–59),Female,2021-05-15,23:00:00,06:00:00,7.0,7–9,0.94,High,30,Above Recommended,1.0,Typical,50.0,Moderate,1.0,Low,No,3.0,Some (1–3 sessions),Weekend,23.0,23.0,6.0,5
+125,129,33,Adults (20–59),Female,2021-08-09,23:00:00,08:00:00,9.0,7–9,0.73,Moderate,20,Within Recommended,2.0,Typical,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekday,23.0,23.0,8.0,8
+126,130,25,Adults (20–59),Male,2021-07-20,21:00:00,04:00:00,7.0,7–9,0.78,Moderate,18,Below Recommended,2.0,Typical,50.0,Moderate,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.0,21.0,4.0,7
+127,131,29,Adults (20–59),Female,2021-11-25,00:30:00,08:30:00,8.0,7–9,0.55,Low,28,Above Recommended,1.0,Typical,25.0,Low,1.0,Low,Yes,0.0,None (0 sessions),Weekday,0.5,24.5,8.5,11
+128,132,36,Adults (20–59),Female,2021-01-03,00:30:00,08:30:00,8.0,7–9,0.83,Moderate,23,Within Recommended,4.0,Outside typical range,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekend,0.5,24.5,8.5,1
+129,133,32,Adults (20–59),Female,2021-09-10,22:00:00,05:30:00,7.5,7–9,0.94,High,28,Above Recommended,1.0,Typical,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,22.0,22.0,5.5,9
+130,134,37,Adults (20–59),Male,2021-01-26,21:30:00,05:30:00,8.0,7–9,0.95,High,18,Below Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.5,21.5,5.5,1
+131,135,27,Adults (20–59),Male,2021-10-23,23:00:00,06:00:00,7.0,7–9,0.59,Low,23,Within Recommended,3.0,Typical,75.0,Moderate,2.0,Low,Yes,2.0,Some (1–3 sessions),Weekend,23.0,23.0,6.0,10
+132,137,52,Adults (20–59),Male,2021-03-05,00:30:00,07:30:00,7.0,7–9,0.9,High,19,Below Recommended,0.0,Better than average,0.0,None,3.0,Moderate,Yes,1.0,Some (1–3 sessions),Weekday,0.5,24.5,7.5,3
+133,138,36,Adults (20–59),Male,2021-03-06,02:00:00,09:00:00,7.0,7–9,0.77,Moderate,22,Within Recommended,2.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekend,2.0,26.0,9.0,3
+134,140,52,Adults (20–59),Female,2021-12-09,00:00:00,09:00:00,9.0,7–9,0.65,Low,18,Below Recommended,2.0,Typical,25.0,Low,2.0,Low,No,0.0,None (0 sessions),Weekday,0.0,24.0,9.0,12
+135,141,37,Adults (20–59),Female,2021-09-19,22:00:00,06:30:00,8.5,7–9,0.54,Low,20,Within Recommended,2.0,Typical,25.0,Low,0.0,None,Yes,0.0,None (0 sessions),Weekend,22.0,22.0,6.5,9
+136,142,28,Adults (20–59),Female,2021-02-05,21:00:00,03:00:00,6.0,Below 7,0.51,Low,23,Within Recommended,2.0,Typical,50.0,Moderate,5.0,High,Yes,1.0,Some (1–3 sessions),Weekday,21.0,21.0,3.0,2
+137,143,48,Adults (20–59),Male,2021-02-04,22:00:00,05:00:00,7.0,7–9,0.81,Moderate,27,Above Recommended,3.0,Typical,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,2
+139,146,31,Adults (20–59),Female,2021-12-03,01:30:00,08:30:00,7.0,7–9,0.57,Low,24,Within Recommended,3.0,Typical,50.0,Moderate,5.0,High,Yes,1.0,Some (1–3 sessions),Weekday,1.5,25.5,8.5,12
+140,147,42,Adults (20–59),Male,2021-09-10,23:00:00,07:00:00,8.0,7–9,0.58,Low,18,Below Recommended,2.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,23.0,23.0,7.0,9
+141,148,40,Adults (20–59),Female,2021-11-27,00:00:00,08:00:00,8.0,7–9,0.81,Moderate,20,Within Recommended,4.0,Outside typical range,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekend,0.0,24.0,8.0,11
+142,149,26,Adults (20–59),Female,2021-02-27,21:00:00,05:00:00,8.0,7–9,0.75,Moderate,28,Above Recommended,3.0,Typical,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekend,21.0,21.0,5.0,2
+144,152,50,Adults (20–59),Female,2021-07-24,23:00:00,06:00:00,7.0,7–9,0.93,High,25,Within Recommended,1.0,Typical,50.0,Moderate,2.0,Low,No,4.0,Frequent (4–5 sessions),Weekend,23.0,23.0,6.0,7
+145,153,22,Adults (20–59),Male,2021-09-29,23:00:00,06:30:00,7.5,7–9,0.89,High,18,Below Recommended,0.0,Better than average,75.0,Moderate,1.0,Low,No,4.0,Frequent (4–5 sessions),Weekday,23.0,23.0,6.5,9
+146,154,41,Adults (20–59),Male,2021-07-01,02:30:00,10:00:00,7.5,7–9,0.7,Moderate,22,Within Recommended,3.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,2.5,26.5,10.0,7
+149,157,23,Adults (20–59),Female,2021-01-26,21:30:00,05:00:00,7.5,7–9,0.93,High,23,Within Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,21.5,21.5,5.0,1
+150,158,45,Adults (20–59),Female,2021-07-20,21:00:00,04:00:00,7.0,7–9,0.95,High,30,Above Recommended,1.0,Typical,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,21.0,21.0,4.0,7
+152,160,30,Adults (20–59),Male,2021-10-18,00:30:00,09:00:00,8.5,7–9,0.93,High,26,Above Recommended,0.0,Better than average,0.0,None,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,0.5,24.5,9.0,10
+153,161,42,Adults (20–59),Male,2021-11-06,02:30:00,09:30:00,7.0,7–9,0.81,Moderate,24,Within Recommended,4.0,Outside typical range,0.0,None,0.0,None,Yes,2.0,Some (1–3 sessions),Weekend,2.5,26.5,9.5,11
+154,162,42,Adults (20–59),Male,2021-11-06,21:00:00,04:30:00,7.5,7–9,0.95,High,28,Above Recommended,0.0,Better than average,200.0,High,0.0,None,No,3.0,Some (1–3 sessions),Weekend,21.0,21.0,4.5,11
+155,163,53,Adults (20–59),Male,2021-05-31,22:00:00,05:00:00,7.0,7–9,0.72,Moderate,23,Within Recommended,3.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,22.0,22.0,5.0,5
+156,164,49,Adults (20–59),Female,2021-09-06,00:30:00,07:30:00,7.0,7–9,0.9,High,22,Within Recommended,1.0,Typical,25.0,Low,1.0,Low,Yes,0.0,None (0 sessions),Weekday,0.5,24.5,7.5,9
+157,165,48,Adults (20–59),Male,2021-09-02,02:00:00,10:00:00,8.0,7–9,0.95,High,20,Within Recommended,1.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,2.0,26.0,10.0,9
+158,166,48,Adults (20–59),Female,2021-01-11,22:00:00,05:00:00,7.0,7–9,0.91,High,25,Within Recommended,1.0,Typical,0.0,None,5.0,High,No,4.0,Frequent (4–5 sessions),Weekday,22.0,22.0,5.0,1
+159,167,40,Adults (20–59),Female,2021-06-02,23:00:00,06:00:00,7.0,7–9,0.85,High,20,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,23.0,23.0,6.0,6
+160,168,48,Adults (20–59),Female,2021-05-03,22:00:00,05:00:00,7.0,7–9,0.9,High,23,Within Recommended,0.0,Better than average,75.0,Moderate,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,22.0,22.0,5.0,5
+161,169,35,Adults (20–59),Male,2021-05-24,23:00:00,06:30:00,7.5,7–9,0.92,High,20,Within Recommended,0.0,Better than average,50.0,Moderate,1.0,Low,No,3.0,Some (1–3 sessions),Weekday,23.0,23.0,6.5,5
+162,170,55,Adults (20–59),Female,2021-12-06,01:30:00,08:30:00,7.0,7–9,0.6,Low,28,Above Recommended,3.0,Typical,0.0,None,0.0,None,No,1.0,Some (1–3 sessions),Weekday,1.5,25.5,8.5,12
+163,172,33,Adults (20–59),Female,2021-10-06,21:00:00,04:30:00,7.5,7–9,0.67,Low,28,Above Recommended,1.0,Typical,50.0,Moderate,3.0,Moderate,No,1.0,Some (1–3 sessions),Weekday,21.0,21.0,4.5,10
+164,173,27,Adults (20–59),Male,2021-07-28,23:00:00,07:00:00,8.0,7–9,0.51,Low,25,Within Recommended,3.0,Typical,0.0,None,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,23.0,23.0,7.0,7
+165,174,24,Adults (20–59),Female,2021-11-11,02:00:00,08:00:00,6.0,Below 7,0.78,Moderate,26,Above Recommended,1.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,2.0,26.0,8.0,11
+166,175,48,Adults (20–59),Female,2021-07-26,22:30:00,06:30:00,8.0,7–9,0.95,High,20,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,22.5,22.5,6.5,7
+167,176,42,Adults (20–59),Male,2021-07-07,22:00:00,05:00:00,7.0,7–9,0.68,Low,18,Below Recommended,2.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,7
+169,178,44,Adults (20–59),Female,2021-07-04,02:00:00,09:00:00,7.0,7–9,0.94,High,22,Within Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekend,2.0,26.0,9.0,7
+170,179,39,Adults (20–59),Female,2021-08-08,00:30:00,08:30:00,8.0,7–9,0.78,Moderate,24,Within Recommended,3.0,Typical,25.0,Low,1.0,Low,Yes,0.0,None (0 sessions),Weekend,0.5,24.5,8.5,8
+171,180,53,Adults (20–59),Male,2021-06-30,23:00:00,05:00:00,6.0,Below 7,0.9,High,20,Within Recommended,1.0,Typical,75.0,Moderate,0.0,None,No,2.0,Some (1–3 sessions),Weekday,23.0,23.0,5.0,6
+172,181,37,Adults (20–59),Male,2021-11-20,02:30:00,10:00:00,7.5,7–9,0.83,Moderate,24,Within Recommended,2.0,Typical,0.0,None,0.0,None,Yes,2.0,Some (1–3 sessions),Weekend,2.5,26.5,10.0,11
+173,182,29,Adults (20–59),Female,2021-11-27,21:30:00,04:30:00,7.0,7–9,0.8,Moderate,23,Within Recommended,2.0,Typical,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekend,21.5,21.5,4.5,11
+174,183,49,Adults (20–59),Female,2021-08-08,21:30:00,05:00:00,7.5,7–9,0.96,High,28,Above Recommended,0.0,Better than average,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekend,21.5,21.5,5.0,8
+175,184,24,Adults (20–59),Female,2021-01-18,00:00:00,08:00:00,8.0,7–9,0.91,High,24,Within Recommended,0.0,Better than average,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,8.0,1
+176,185,48,Adults (20–59),Female,2021-07-14,21:00:00,04:30:00,7.5,7–9,0.96,High,22,Within Recommended,0.0,Better than average,25.0,Low,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,21.0,21.0,4.5,7
+177,186,36,Adults (20–59),Female,2021-05-25,23:00:00,06:30:00,7.5,7–9,0.94,High,30,Above Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,23.0,23.0,6.5,5
+178,187,37,Adults (20–59),Female,2021-12-10,00:00:00,07:00:00,7.0,7–9,0.63,Low,28,Above Recommended,3.0,Typical,0.0,None,3.0,Moderate,No,1.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,12
+179,188,27,Adults (20–59),Male,2021-06-01,00:00:00,07:00:00,7.0,7–9,0.73,Moderate,18,Below Recommended,4.0,Outside typical range,50.0,Moderate,0.0,None,No,2.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,6
+180,189,21,Adults (20–59),Male,2021-09-13,02:30:00,10:30:00,8.0,7–9,0.87,High,19,Below Recommended,1.0,Typical,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,2.5,26.5,10.5,9
+181,190,52,Adults (20–59),Female,2021-02-07,01:00:00,08:00:00,7.0,7–9,0.76,Moderate,20,Within Recommended,4.0,Outside typical range,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekend,1.0,25.0,8.0,2
+182,191,53,Adults (20–59),Male,2021-10-17,00:00:00,07:30:00,7.5,7–9,0.68,Low,18,Below Recommended,4.0,Outside typical range,50.0,Moderate,4.0,Moderate,No,2.0,Some (1–3 sessions),Weekend,0.0,24.0,7.5,10
+183,192,27,Adults (20–59),Female,2021-09-09,22:30:00,06:30:00,8.0,7–9,0.94,High,25,Within Recommended,1.0,Typical,75.0,Moderate,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,22.5,22.5,6.5,9
+184,193,24,Adults (20–59),Male,2021-07-14,00:00:00,07:00:00,7.0,7–9,0.95,High,15,Below Recommended,0.0,Better than average,0.0,None,0.0,None,No,2.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,7
+186,195,44,Adults (20–59),Female,2021-06-05,21:00:00,05:00:00,8.0,7–9,0.91,High,20,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekend,21.0,21.0,5.0,6
+188,197,30,Adults (20–59),Female,2021-08-05,00:00:00,08:00:00,8.0,7–9,0.94,High,22,Within Recommended,1.0,Typical,75.0,Moderate,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,0.0,24.0,8.0,8
+189,198,48,Adults (20–59),Male,2021-01-09,02:30:00,08:30:00,6.0,Below 7,0.79,Moderate,24,Within Recommended,4.0,Outside typical range,0.0,None,0.0,None,Yes,2.0,Some (1–3 sessions),Weekend,2.5,26.5,8.5,1
+190,199,32,Adults (20–59),Female,2021-12-31,01:30:00,06:30:00,5.0,Below 7,0.86,High,20,Within Recommended,1.0,Typical,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekday,1.5,25.5,6.5,12
+191,200,52,Adults (20–59),Male,2021-08-19,22:30:00,05:30:00,7.0,7–9,0.83,Moderate,23,Within Recommended,1.0,Typical,0.0,None,0.0,None,Yes,0.0,None (0 sessions),Weekday,22.5,22.5,5.5,8
+194,203,59,Adults (20–59),Female,2021-08-05,00:30:00,06:30:00,6.0,Below 7,0.87,High,18,Below Recommended,0.0,Better than average,25.0,Low,1.0,Low,Yes,0.0,None (0 sessions),Weekday,0.5,24.5,6.5,8
+195,204,38,Adults (20–59),Male,2021-07-11,23:00:00,07:00:00,8.0,7–9,0.5,Low,20,Within Recommended,3.0,Typical,0.0,None,3.0,Moderate,Yes,2.0,Some (1–3 sessions),Weekend,23.0,23.0,7.0,7
+196,205,31,Adults (20–59),Female,2021-03-07,22:30:00,05:30:00,7.0,7–9,0.92,High,20,Within Recommended,1.0,Typical,0.0,None,3.0,Moderate,No,4.0,Frequent (4–5 sessions),Weekend,22.5,22.5,5.5,3
+197,206,32,Adults (20–59),Female,2021-12-22,21:30:00,03:30:00,6.0,Below 7,0.79,Moderate,20,Within Recommended,1.0,Typical,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekday,21.5,21.5,3.5,12
+198,207,31,Adults (20–59),Female,2021-01-22,01:30:00,08:30:00,7.0,7–9,0.98,High,20,Within Recommended,0.0,Better than average,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekday,1.5,25.5,8.5,1
+199,208,41,Adults (20–59),Female,2021-03-15,02:00:00,09:00:00,7.0,7–9,0.93,High,20,Within Recommended,1.0,Typical,50.0,Moderate,0.0,None,Yes,0.0,None (0 sessions),Weekday,2.0,26.0,9.0,3
+200,209,32,Adults (20–59),Female,2021-03-22,22:00:00,06:00:00,8.0,7–9,0.88,High,22,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,2.0,Some (1–3 sessions),Weekday,22.0,22.0,6.0,3
+204,213,36,Adults (20–59),Female,2021-01-31,23:00:00,06:30:00,7.5,7–9,0.8,Moderate,15,Below Recommended,1.0,Typical,50.0,Moderate,2.0,Low,No,4.0,Frequent (4–5 sessions),Weekend,23.0,23.0,6.5,1
+205,214,29,Adults (20–59),Female,2021-10-29,00:00:00,05:00:00,5.0,Below 7,0.86,High,25,Within Recommended,1.0,Typical,75.0,Moderate,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,0.0,24.0,5.0,10
+206,215,27,Adults (20–59),Male,2021-09-25,00:30:00,08:00:00,7.5,7–9,0.61,Low,25,Within Recommended,1.0,Typical,25.0,Low,2.0,Low,No,2.0,Some (1–3 sessions),Weekend,0.5,24.5,8.0,9
+207,216,22,Adults (20–59),Female,2021-05-14,23:00:00,06:00:00,7.0,7–9,0.72,Moderate,28,Above Recommended,4.0,Outside typical range,0.0,None,5.0,High,No,1.0,Some (1–3 sessions),Weekday,23.0,23.0,6.0,5
+208,217,22,Adults (20–59),Male,2021-06-15,21:00:00,03:00:00,6.0,Below 7,0.72,Moderate,27,Above Recommended,1.0,Typical,0.0,None,5.0,High,No,3.0,Some (1–3 sessions),Weekday,21.0,21.0,3.0,6
+209,218,40,Adults (20–59),Female,2021-09-26,00:00:00,07:30:00,7.5,7–9,0.55,Low,23,Within Recommended,4.0,Outside typical range,50.0,Moderate,3.0,Moderate,Yes,1.0,Some (1–3 sessions),Weekend,0.0,24.0,7.5,9
+210,219,56,Adults (20–59),Female,2021-07-07,01:00:00,08:00:00,7.0,7–9,0.96,High,28,Above Recommended,1.0,Typical,50.0,Moderate,0.0,None,No,0.0,None (0 sessions),Weekday,1.0,25.0,8.0,7
+212,221,37,Adults (20–59),Female,2021-09-17,21:00:00,04:00:00,7.0,7–9,0.77,Moderate,28,Above Recommended,4.0,Outside typical range,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,21.0,21.0,4.0,9
+213,222,41,Adults (20–59),Female,2021-12-17,23:00:00,07:30:00,8.5,7–9,0.85,High,20,Within Recommended,0.0,Better than average,25.0,Low,1.0,Low,Yes,0.0,None (0 sessions),Weekday,23.0,23.0,7.5,12
+214,223,52,Adults (20–59),Male,2021-02-07,00:00:00,08:00:00,8.0,7–9,0.95,High,25,Within Recommended,0.0,Better than average,50.0,Moderate,1.0,Low,No,3.0,Some (1–3 sessions),Weekend,0.0,24.0,8.0,2
+216,225,38,Adults (20–59),Male,2021-02-24,23:00:00,05:00:00,6.0,Below 7,0.95,High,28,Above Recommended,1.0,Typical,75.0,Moderate,1.0,Low,No,4.0,Frequent (4–5 sessions),Weekday,23.0,23.0,5.0,2
+218,227,29,Adults (20–59),Female,2021-12-29,22:00:00,05:30:00,7.5,7–9,0.93,High,25,Within Recommended,0.0,Better than average,0.0,None,0.0,None,No,5.0,Frequent (4–5 sessions),Weekday,22.0,22.0,5.5,12
+219,228,29,Adults (20–59),Female,2021-09-12,21:30:00,04:30:00,7.0,7–9,0.82,Moderate,20,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,2.0,Some (1–3 sessions),Weekend,21.5,21.5,4.5,9
+220,229,30,Adults (20–59),Female,2021-09-28,00:00:00,08:00:00,8.0,7–9,0.94,High,24,Within Recommended,0.0,Better than average,25.0,Low,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,8.0,9
+221,230,26,Adults (20–59),Male,2021-03-04,22:30:00,05:30:00,7.0,7–9,0.75,Moderate,24,Within Recommended,4.0,Outside typical range,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,22.5,22.5,5.5,3
+222,231,32,Adults (20–59),Male,2021-10-21,01:30:00,09:00:00,7.5,7–9,0.91,High,22,Within Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,1.5,25.5,9.0,10
+223,232,55,Adults (20–59),Male,2021-04-28,23:00:00,07:00:00,8.0,7–9,0.65,Low,27,Above Recommended,1.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,23.0,23.0,7.0,4
+224,233,36,Adults (20–59),Female,2021-03-06,23:00:00,04:00:00,5.0,Below 7,0.87,High,22,Within Recommended,1.0,Typical,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekend,23.0,23.0,4.0,3
+225,234,53,Adults (20–59),Male,2021-09-23,01:30:00,09:30:00,8.0,7–9,0.84,Moderate,22,Within Recommended,4.0,Outside typical range,25.0,Low,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,1.5,25.5,9.5,9
+227,236,28,Adults (20–59),Female,2021-02-02,21:00:00,04:00:00,7.0,7–9,0.91,High,23,Within Recommended,1.0,Typical,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,21.0,21.0,4.0,2
+228,237,58,Adults (20–59),Male,2021-12-15,21:30:00,05:00:00,7.5,7–9,0.71,Moderate,22,Within Recommended,1.0,Typical,0.0,None,3.0,Moderate,No,0.0,None (0 sessions),Weekday,21.5,21.5,5.0,12
+229,238,51,Adults (20–59),Male,2021-04-29,01:30:00,09:00:00,7.5,7–9,0.82,Moderate,20,Within Recommended,2.0,Typical,25.0,Low,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,1.5,25.5,9.0,4
+230,239,37,Adults (20–59),Female,2021-02-13,01:30:00,10:00:00,8.5,7–9,0.77,Moderate,22,Within Recommended,4.0,Outside typical range,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekend,1.5,25.5,10.0,2
+231,240,41,Adults (20–59),Male,2021-02-27,22:00:00,06:00:00,8.0,7–9,0.95,High,20,Within Recommended,0.0,Better than average,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekend,22.0,22.0,6.0,2
+232,241,32,Adults (20–59),Male,2021-07-23,22:30:00,05:30:00,7.0,7–9,0.95,High,18,Below Recommended,0.0,Better than average,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,22.5,22.5,5.5,7
+233,242,56,Adults (20–59),Male,2021-03-07,00:30:00,09:00:00,8.5,7–9,0.76,Moderate,26,Above Recommended,3.0,Typical,0.0,None,0.0,None,Yes,1.0,Some (1–3 sessions),Weekend,0.5,24.5,9.0,3
+234,243,43,Adults (20–59),Female,2021-08-17,02:30:00,10:30:00,8.0,7–9,0.85,High,23,Within Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,2.5,26.5,10.5,8
+235,244,52,Adults (20–59),Male,2021-09-14,00:00:00,07:00:00,7.0,7–9,0.75,Moderate,23,Within Recommended,4.0,Outside typical range,75.0,Moderate,0.0,None,No,3.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,9
+237,247,36,Adults (20–59),Female,2021-09-03,22:00:00,06:30:00,8.5,7–9,0.91,High,20,Within Recommended,1.0,Typical,25.0,Low,1.0,Low,Yes,0.0,None (0 sessions),Weekday,22.0,22.0,6.5,9
+238,248,29,Adults (20–59),Female,2021-09-01,22:00:00,06:00:00,8.0,7–9,0.85,High,18,Below Recommended,0.0,Better than average,0.0,None,0.0,None,No,5.0,Frequent (4–5 sessions),Weekday,22.0,22.0,6.0,9
+239,249,25,Adults (20–59),Male,2021-10-20,00:00:00,07:30:00,7.5,7–9,0.95,High,24,Within Recommended,0.0,Better than average,0.0,None,0.0,None,Yes,0.0,None (0 sessions),Weekday,0.0,24.0,7.5,10
+240,251,29,Adults (20–59),Female,2021-03-31,21:30:00,04:30:00,7.0,7–9,0.63,Low,18,Below Recommended,2.0,Typical,50.0,Moderate,2.0,Low,No,2.0,Some (1–3 sessions),Weekday,21.5,21.5,4.5,3
+241,252,31,Adults (20–59),Male,2021-06-26,00:30:00,09:00:00,8.5,7–9,0.86,High,28,Above Recommended,0.0,Better than average,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekend,0.5,24.5,9.0,6
+242,253,23,Adults (20–59),Female,2021-06-23,02:30:00,09:30:00,7.0,7–9,0.54,Low,20,Within Recommended,1.0,Typical,50.0,Moderate,5.0,High,Yes,1.0,Some (1–3 sessions),Weekday,2.5,26.5,9.5,6
+243,254,46,Adults (20–59),Female,2021-06-01,21:00:00,03:00:00,6.0,Below 7,0.95,High,30,Above Recommended,0.0,Better than average,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.0,21.0,3.0,6
+244,255,47,Adults (20–59),Female,2021-03-23,01:30:00,08:30:00,7.0,7–9,0.72,Moderate,20,Within Recommended,3.0,Typical,50.0,Moderate,5.0,High,No,1.0,Some (1–3 sessions),Weekday,1.5,25.5,8.5,3
+246,257,35,Adults (20–59),Female,2021-04-22,00:00:00,07:00:00,7.0,7–9,0.93,High,20,Within Recommended,0.0,Better than average,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekday,0.0,24.0,7.0,4
+247,258,27,Adults (20–59),Female,2021-05-31,22:00:00,06:00:00,8.0,7–9,0.52,Low,15,Below Recommended,1.0,Typical,25.0,Low,5.0,High,Yes,5.0,Frequent (4–5 sessions),Weekday,22.0,22.0,6.0,5
+248,259,54,Adults (20–59),Male,2021-10-21,22:00:00,06:00:00,8.0,7–9,0.61,Low,18,Below Recommended,1.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,22.0,22.0,6.0,10
+249,260,48,Adults (20–59),Female,2021-06-18,21:30:00,05:00:00,7.5,7–9,0.79,Moderate,20,Within Recommended,2.0,Typical,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,21.5,21.5,5.0,6
+250,261,46,Adults (20–59),Male,2021-08-20,22:00:00,05:00:00,7.0,7–9,0.94,High,27,Above Recommended,0.0,Better than average,0.0,None,3.0,Moderate,Yes,3.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,8
+251,262,37,Adults (20–59),Female,2021-12-17,22:00:00,05:00:00,7.0,7–9,0.76,Moderate,28,Above Recommended,1.0,Typical,25.0,Low,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,22.0,22.0,5.0,12
+252,263,31,Adults (20–59),Female,2021-11-08,21:00:00,06:00:00,9.0,7–9,0.76,Moderate,23,Within Recommended,4.0,Outside typical range,50.0,Moderate,0.0,None,No,0.0,None (0 sessions),Weekday,21.0,21.0,6.0,11
+253,264,23,Adults (20–59),Female,2021-04-17,00:00:00,09:00:00,9.0,7–9,0.78,Moderate,26,Above Recommended,1.0,Typical,25.0,Low,0.0,None,No,1.0,Some (1–3 sessions),Weekend,0.0,24.0,9.0,4
+254,265,48,Adults (20–59),Female,2021-05-30,22:00:00,05:00:00,7.0,7–9,0.94,High,22,Within Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,3.0,Some (1–3 sessions),Weekend,22.0,22.0,5.0,5
+255,266,44,Adults (20–59),Male,2021-06-21,02:00:00,09:30:00,7.5,7–9,0.87,High,18,Below Recommended,0.0,Better than average,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,2.0,26.0,9.5,6
+256,267,24,Adults (20–59),Male,2021-05-18,00:00:00,07:00:00,7.0,7–9,0.55,Low,20,Within Recommended,3.0,Typical,0.0,None,3.0,Moderate,Yes,0.0,None (0 sessions),Weekday,0.0,24.0,7.0,5
+257,268,30,Adults (20–59),Female,2021-10-26,22:30:00,06:30:00,8.0,7–9,0.93,High,20,Within Recommended,1.0,Typical,0.0,None,3.0,Moderate,No,4.0,Frequent (4–5 sessions),Weekday,22.5,22.5,6.5,10
+258,269,45,Adults (20–59),Male,2021-11-30,01:00:00,09:30:00,8.5,7–9,0.93,High,20,Within Recommended,1.0,Typical,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekday,1.0,25.0,9.5,11
+259,270,27,Adults (20–59),Male,2021-10-05,00:00:00,07:00:00,7.0,7–9,0.94,High,22,Within Recommended,0.0,Better than average,25.0,Low,0.0,None,No,2.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,10
+260,271,44,Adults (20–59),Female,2021-11-03,00:00:00,08:00:00,8.0,7–9,0.78,Moderate,23,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,8.0,11
+261,272,50,Adults (20–59),Female,2021-10-12,21:30:00,04:30:00,7.0,7–9,0.94,High,28,Above Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.5,21.5,4.5,10
+262,273,58,Adults (20–59),Male,2021-02-13,01:00:00,10:00:00,9.0,7–9,0.5,Low,27,Above Recommended,2.0,Typical,0.0,None,3.0,Moderate,Yes,3.0,Some (1–3 sessions),Weekend,1.0,25.0,10.0,2
+263,274,49,Adults (20–59),Male,2021-12-19,00:30:00,07:30:00,7.0,7–9,0.93,High,28,Above Recommended,0.0,Better than average,50.0,Moderate,0.0,None,Yes,3.0,Some (1–3 sessions),Weekend,0.5,24.5,7.5,12
+264,275,46,Adults (20–59),Male,2021-06-21,22:00:00,05:00:00,7.0,7–9,0.73,Moderate,22,Within Recommended,4.0,Outside typical range,0.0,None,5.0,High,No,0.0,None (0 sessions),Weekday,22.0,22.0,5.0,6
+265,276,27,Adults (20–59),Female,2021-05-27,23:00:00,06:00:00,7.0,7–9,0.9,High,21,Within Recommended,0.0,Better than average,50.0,Moderate,4.0,Moderate,No,1.0,Some (1–3 sessions),Weekday,23.0,23.0,6.0,5
+266,277,37,Adults (20–59),Female,2021-02-03,22:00:00,06:00:00,8.0,7–9,0.87,High,18,Below Recommended,0.0,Better than average,50.0,Moderate,1.0,Low,No,4.0,Frequent (4–5 sessions),Weekday,22.0,22.0,6.0,2
+267,278,48,Adults (20–59),Female,2021-04-17,21:30:00,05:30:00,8.0,7–9,0.93,High,25,Within Recommended,0.0,Better than average,25.0,Low,0.0,None,No,4.0,Frequent (4–5 sessions),Weekend,21.5,21.5,5.5,4
+268,279,42,Adults (20–59),Female,2021-08-26,02:30:00,10:30:00,8.0,7–9,0.9,High,23,Within Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,2.5,26.5,10.5,8
+269,280,48,Adults (20–59),Female,2021-02-07,22:00:00,05:00:00,7.0,7–9,0.67,Low,20,Within Recommended,1.0,Typical,0.0,None,2.0,Low,No,4.0,Frequent (4–5 sessions),Weekend,22.0,22.0,5.0,2
+270,281,25,Adults (20–59),Female,2021-11-28,00:00:00,07:30:00,7.5,7–9,0.9,High,28,Above Recommended,1.0,Typical,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekend,0.0,24.0,7.5,11
+272,283,53,Adults (20–59),Male,2021-12-31,21:00:00,04:00:00,7.0,7–9,0.98,High,24,Within Recommended,1.0,Typical,75.0,Moderate,0.0,None,No,2.0,Some (1–3 sessions),Weekday,21.0,21.0,4.0,12
+273,284,38,Adults (20–59),Female,2021-01-13,23:00:00,07:30:00,8.5,7–9,0.66,Low,22,Within Recommended,4.0,Outside typical range,25.0,Low,2.0,Low,No,0.0,None (0 sessions),Weekday,23.0,23.0,7.5,1
+275,286,27,Adults (20–59),Male,2021-02-21,23:00:00,05:00:00,6.0,Below 7,0.56,Low,20,Within Recommended,3.0,Typical,0.0,None,5.0,High,Yes,2.0,Some (1–3 sessions),Weekend,23.0,23.0,5.0,2
+276,287,50,Adults (20–59),Male,2021-11-25,22:00:00,06:00:00,8.0,7–9,0.62,Low,18,Below Recommended,1.0,Typical,0.0,None,2.0,Low,Yes,3.0,Some (1–3 sessions),Weekday,22.0,22.0,6.0,11
+277,290,26,Adults (20–59),Female,2021-06-08,22:00:00,05:00:00,7.0,7–9,0.81,Moderate,28,Above Recommended,2.0,Typical,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,6
+278,291,54,Adults (20–59),Male,2021-01-20,22:30:00,06:30:00,8.0,7–9,0.84,Moderate,18,Below Recommended,3.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,22.5,22.5,6.5,1
+279,292,46,Adults (20–59),Female,2021-03-28,21:30:00,05:00:00,7.5,7–9,0.93,High,25,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekend,21.5,21.5,5.0,3
+280,293,38,Adults (20–59),Female,2021-11-06,22:00:00,04:00:00,6.0,Below 7,0.87,High,20,Within Recommended,0.0,Better than average,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekend,22.0,22.0,4.0,11
+281,294,24,Adults (20–59),Female,2021-04-01,22:00:00,05:00:00,7.0,7–9,0.86,High,23,Within Recommended,0.0,Better than average,25.0,Low,0.0,None,No,0.0,None (0 sessions),Weekday,22.0,22.0,5.0,4
+282,295,38,Adults (20–59),Male,2021-03-12,23:00:00,06:00:00,7.0,7–9,0.89,High,20,Within Recommended,0.0,Better than average,75.0,Moderate,1.0,Low,No,4.0,Frequent (4–5 sessions),Weekday,23.0,23.0,6.0,3
+283,296,29,Adults (20–59),Female,2021-10-09,01:00:00,09:00:00,8.0,7–9,0.94,High,24,Within Recommended,0.0,Better than average,0.0,None,0.0,None,No,2.0,Some (1–3 sessions),Weekend,1.0,25.0,9.0,10
+284,297,51,Adults (20–59),Male,2021-11-06,00:00:00,07:00:00,7.0,7–9,0.84,Moderate,22,Within Recommended,2.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekend,0.0,24.0,7.0,11
+285,298,27,Adults (20–59),Female,2021-01-11,00:30:00,08:30:00,8.0,7–9,0.86,High,20,Within Recommended,1.0,Typical,25.0,Low,1.0,Low,Yes,0.0,None (0 sessions),Weekday,0.5,24.5,8.5,1
+286,299,35,Adults (20–59),Female,2021-08-11,23:00:00,07:30:00,8.5,7–9,0.75,Moderate,22,Within Recommended,2.0,Typical,25.0,Low,1.0,Low,Yes,0.0,None (0 sessions),Weekday,23.0,23.0,7.5,8
+287,300,22,Adults (20–59),Male,2021-04-24,21:30:00,05:30:00,8.0,7–9,0.6,Low,27,Above Recommended,4.0,Outside typical range,0.0,None,4.0,Moderate,No,3.0,Some (1–3 sessions),Weekend,21.5,21.5,5.5,4
+288,301,47,Adults (20–59),Female,2021-10-09,22:30:00,05:30:00,7.0,7–9,0.93,High,25,Within Recommended,0.0,Better than average,0.0,None,3.0,Moderate,No,4.0,Frequent (4–5 sessions),Weekend,22.5,22.5,5.5,10
+289,302,25,Adults (20–59),Female,2021-12-29,00:00:00,08:30:00,8.5,7–9,0.75,Moderate,26,Above Recommended,2.0,Typical,25.0,Low,0.0,None,No,1.0,Some (1–3 sessions),Weekday,0.0,24.0,8.5,12
+290,303,25,Adults (20–59),Male,2021-05-15,00:00:00,07:00:00,7.0,7–9,0.81,Moderate,25,Within Recommended,4.0,Outside typical range,0.0,None,5.0,High,No,3.0,Some (1–3 sessions),Weekend,0.0,24.0,7.0,5
+291,304,51,Adults (20–59),Male,2021-01-08,02:30:00,12:30:00,10.0,Above 9,0.78,Moderate,24,Within Recommended,2.0,Typical,0.0,None,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,2.5,26.5,12.5,1
+292,305,25,Adults (20–59),Male,2021-05-01,00:00:00,08:00:00,8.0,7–9,0.84,Moderate,15,Below Recommended,4.0,Outside typical range,0.0,None,4.0,Moderate,No,0.0,None (0 sessions),Weekend,0.0,24.0,8.0,5
+294,307,27,Adults (20–59),Male,2021-07-16,21:00:00,03:00:00,6.0,Below 7,0.9,High,24,Within Recommended,1.0,Typical,0.0,None,5.0,High,Yes,2.0,Some (1–3 sessions),Weekday,21.0,21.0,3.0,7
+295,309,56,Adults (20–59),Female,2021-10-16,01:00:00,08:00:00,7.0,7–9,0.93,High,20,Within Recommended,1.0,Typical,0.0,None,5.0,High,No,3.0,Some (1–3 sessions),Weekend,1.0,25.0,8.0,10
+296,310,28,Adults (20–59),Female,2021-12-21,21:00:00,04:30:00,7.5,7–9,0.8,Moderate,28,Above Recommended,2.0,Typical,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,21.0,21.0,4.5,12
+297,311,33,Adults (20–59),Female,2021-09-26,23:00:00,09:00:00,10.0,Above 9,0.63,Low,20,Within Recommended,4.0,Outside typical range,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekend,23.0,23.0,9.0,9
+298,312,22,Adults (20–59),Female,2021-07-19,22:00:00,05:00:00,7.0,7–9,0.9,High,25,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,22.0,22.0,5.0,7
+299,313,50,Adults (20–59),Male,2021-12-12,01:00:00,10:00:00,9.0,7–9,0.9,High,27,Above Recommended,1.0,Typical,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekend,1.0,25.0,10.0,12
+300,314,25,Adults (20–59),Male,2021-12-04,23:00:00,06:00:00,7.0,7–9,0.86,High,20,Within Recommended,1.0,Typical,25.0,Low,0.0,None,No,2.0,Some (1–3 sessions),Weekend,23.0,23.0,6.0,12
+301,315,54,Adults (20–59),Male,2021-03-25,22:30:00,05:30:00,7.0,7–9,0.51,Low,22,Within Recommended,4.0,Outside typical range,0.0,None,0.0,None,Yes,0.0,None (0 sessions),Weekday,22.5,22.5,5.5,3
+302,317,58,Adults (20–59),Male,2021-04-19,00:00:00,07:30:00,7.5,7–9,0.87,High,22,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,7.5,4
+303,318,45,Adults (20–59),Male,2021-11-22,21:00:00,04:30:00,7.5,7–9,0.7,Moderate,23,Within Recommended,1.0,Typical,0.0,None,5.0,High,No,0.0,None (0 sessions),Weekday,21.0,21.0,4.5,11
+304,319,55,Adults (20–59),Male,2021-03-30,00:00:00,08:00:00,8.0,7–9,0.85,High,23,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,8.0,3
+305,320,54,Adults (20–59),Male,2021-08-27,00:00:00,07:00:00,7.0,7–9,0.87,High,15,Below Recommended,1.0,Typical,0.0,None,4.0,Moderate,No,2.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,8
+307,322,25,Adults (20–59),Male,2021-09-11,23:00:00,06:30:00,7.5,7–9,0.83,Moderate,23,Within Recommended,2.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekend,23.0,23.0,6.5,9
+308,323,30,Adults (20–59),Female,2021-09-17,21:00:00,04:30:00,7.5,7–9,0.8,Moderate,28,Above Recommended,3.0,Typical,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,21.0,21.0,4.5,9
+309,324,41,Adults (20–59),Male,2021-12-29,00:00:00,07:30:00,7.5,7–9,0.93,High,22,Within Recommended,0.0,Better than average,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,7.5,12
+310,325,44,Adults (20–59),Female,2021-03-08,01:30:00,07:30:00,6.0,Below 7,0.75,Moderate,18,Below Recommended,4.0,Outside typical range,0.0,None,0.0,None,No,1.0,Some (1–3 sessions),Weekday,1.5,25.5,7.5,3
+311,326,52,Adults (20–59),Female,2021-07-30,01:00:00,08:00:00,7.0,7–9,0.5,Low,23,Within Recommended,4.0,Outside typical range,0.0,None,4.0,Moderate,Yes,0.0,None (0 sessions),Weekday,1.0,25.0,8.0,7
+312,327,29,Adults (20–59),Female,2021-12-11,00:00:00,07:30:00,7.5,7–9,0.5,Low,22,Within Recommended,1.0,Typical,75.0,Moderate,1.0,Low,Yes,2.0,Some (1–3 sessions),Weekend,0.0,24.0,7.5,12
+313,329,42,Adults (20–59),Female,2021-09-30,22:00:00,06:00:00,8.0,7–9,0.96,High,20,Within Recommended,1.0,Typical,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekday,22.0,22.0,6.0,9
+314,330,26,Adults (20–59),Female,2021-05-21,00:00:00,07:30:00,7.5,7–9,0.52,Low,23,Within Recommended,4.0,Outside typical range,50.0,Moderate,2.0,Low,Yes,1.0,Some (1–3 sessions),Weekday,0.0,24.0,7.5,5
+315,331,49,Adults (20–59),Male,2021-05-21,22:30:00,04:00:00,5.5,Below 7,0.68,Low,22,Within Recommended,2.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,22.5,22.5,4.0,5
+316,332,46,Adults (20–59),Male,2021-04-28,21:30:00,05:30:00,8.0,7–9,0.72,Moderate,18,Below Recommended,3.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,21.5,21.5,5.5,4
+318,334,27,Adults (20–59),Female,2021-01-23,22:00:00,05:30:00,7.5,7–9,0.91,High,22,Within Recommended,0.0,Better than average,25.0,Low,0.0,None,No,5.0,Frequent (4–5 sessions),Weekend,22.0,22.0,5.5,1
+319,335,39,Adults (20–59),Female,2021-11-07,23:00:00,07:30:00,8.5,7–9,0.85,High,22,Within Recommended,0.0,Better than average,25.0,Low,1.0,Low,Yes,0.0,None (0 sessions),Weekend,23.0,23.0,7.5,11
+320,336,44,Adults (20–59),Female,2021-10-26,00:30:00,10:30:00,10.0,Above 9,0.72,Moderate,28,Above Recommended,3.0,Typical,50.0,Moderate,4.0,Moderate,Yes,1.0,Some (1–3 sessions),Weekday,0.5,24.5,10.5,10
+321,337,50,Adults (20–59),Female,2021-07-20,22:00:00,05:00:00,7.0,7–9,0.9,High,22,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,5.0,Frequent (4–5 sessions),Weekday,22.0,22.0,5.0,7
+322,339,44,Adults (20–59),Male,2021-11-10,02:30:00,12:30:00,10.0,Above 9,0.89,High,23,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,2.5,26.5,12.5,11
+323,340,57,Adults (20–59),Male,2021-08-09,22:00:00,03:30:00,5.5,Below 7,0.9,High,22,Within Recommended,0.0,Better than average,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,22.0,22.0,3.5,8
+324,341,53,Adults (20–59),Male,2021-06-11,22:30:00,05:30:00,7.0,7–9,0.85,High,20,Within Recommended,1.0,Typical,75.0,Moderate,0.0,None,No,2.0,Some (1–3 sessions),Weekday,22.5,22.5,5.5,6
+326,343,41,Adults (20–59),Female,2021-08-17,01:00:00,09:00:00,8.0,7–9,0.51,Low,19,Below Recommended,4.0,Outside typical range,50.0,Moderate,5.0,High,Yes,0.0,None (0 sessions),Weekday,1.0,25.0,9.0,8
+327,344,52,Adults (20–59),Female,2021-11-01,02:30:00,09:30:00,7.0,7–9,0.9,High,22,Within Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,2.5,26.5,9.5,11
+328,345,53,Adults (20–59),Male,2021-03-26,21:30:00,06:30:00,9.0,7–9,0.9,High,27,Above Recommended,1.0,Typical,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekday,21.5,21.5,6.5,3
+329,346,25,Adults (20–59),Male,2021-03-09,00:00:00,07:00:00,7.0,7–9,0.51,Low,28,Above Recommended,1.0,Typical,50.0,Moderate,2.0,Low,Yes,3.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,3
+330,347,51,Adults (20–59),Male,2021-03-01,22:30:00,05:30:00,7.0,7–9,0.84,Moderate,15,Below Recommended,1.0,Typical,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,22.5,22.5,5.5,3
+331,348,30,Adults (20–59),Male,2021-09-19,00:00:00,08:00:00,8.0,7–9,0.82,Moderate,18,Below Recommended,3.0,Typical,0.0,None,4.0,Moderate,No,2.0,Some (1–3 sessions),Weekend,0.0,24.0,8.0,9
+332,349,57,Adults (20–59),Male,2021-04-17,01:30:00,08:30:00,7.0,7–9,0.88,High,22,Within Recommended,0.0,Better than average,25.0,Low,0.0,None,Yes,1.0,Some (1–3 sessions),Weekend,1.5,25.5,8.5,4
+333,350,24,Adults (20–59),Female,2021-12-04,21:30:00,05:00:00,7.5,7–9,0.79,Moderate,28,Above Recommended,1.0,Typical,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekend,21.5,21.5,5.0,12
+334,351,24,Adults (20–59),Male,2021-07-18,21:30:00,04:30:00,7.0,7–9,0.64,Low,27,Above Recommended,4.0,Outside typical range,0.0,None,1.0,Low,No,3.0,Some (1–3 sessions),Weekend,21.5,21.5,4.5,7
+336,354,45,Adults (20–59),Male,2021-12-17,22:00:00,05:30:00,7.5,7–9,0.71,Moderate,25,Within Recommended,4.0,Outside typical range,0.0,None,2.0,Low,No,0.0,None (0 sessions),Weekday,22.0,22.0,5.5,12
+337,355,29,Adults (20–59),Female,2021-06-08,22:00:00,05:00:00,7.0,7–9,0.9,High,25,Within Recommended,1.0,Typical,0.0,None,5.0,High,Yes,2.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,6
+338,356,39,Adults (20–59),Male,2021-10-26,02:30:00,09:30:00,7.0,7–9,0.82,Moderate,24,Within Recommended,3.0,Typical,0.0,None,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,2.5,26.5,9.5,10
+339,357,51,Adults (20–59),Male,2021-07-17,22:30:00,06:30:00,8.0,7–9,0.95,High,20,Within Recommended,0.0,Better than average,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekend,22.5,22.5,6.5,7
+340,358,27,Adults (20–59),Female,2021-06-04,00:00:00,09:00:00,9.0,7–9,0.95,High,25,Within Recommended,0.0,Better than average,75.0,Moderate,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,0.0,24.0,9.0,6
+341,359,41,Adults (20–59),Male,2021-11-17,22:00:00,05:00:00,7.0,7–9,0.54,Low,20,Within Recommended,1.0,Typical,0.0,None,2.0,Low,Yes,3.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,11
+343,361,56,Adults (20–59),Female,2021-11-08,00:00:00,09:00:00,9.0,7–9,0.53,Low,24,Within Recommended,2.0,Typical,25.0,Low,4.0,Moderate,Yes,0.0,None (0 sessions),Weekday,0.0,24.0,9.0,11
+344,362,27,Adults (20–59),Female,2021-07-03,00:00:00,06:00:00,6.0,Below 7,0.92,High,25,Within Recommended,0.0,Better than average,75.0,Moderate,0.0,None,Yes,2.0,Some (1–3 sessions),Weekend,0.0,24.0,6.0,7
+345,363,28,Adults (20–59),Male,2021-02-26,23:00:00,06:30:00,7.5,7–9,0.85,High,22,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,1.0,Some (1–3 sessions),Weekday,23.0,23.0,6.5,2
+346,364,30,Adults (20–59),Female,2021-11-06,01:30:00,11:30:00,10.0,Above 9,0.92,High,22,Within Recommended,0.0,Better than average,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekend,1.5,25.5,11.5,11
+347,365,37,Adults (20–59),Male,2021-09-07,00:30:00,08:30:00,8.0,7–9,0.53,Low,30,Above Recommended,1.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,0.5,24.5,8.5,9
+348,366,22,Adults (20–59),Female,2021-05-19,01:30:00,08:30:00,7.0,7–9,0.75,Moderate,26,Above Recommended,4.0,Outside typical range,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,1.5,25.5,8.5,5
+349,367,52,Adults (20–59),Male,2021-10-13,23:00:00,07:00:00,8.0,7–9,0.82,Moderate,20,Within Recommended,3.0,Typical,75.0,Moderate,0.0,None,No,0.0,None (0 sessions),Weekday,23.0,23.0,7.0,10
+350,368,56,Adults (20–59),Male,2021-08-03,02:30:00,07:30:00,5.0,Below 7,0.74,Moderate,22,Within Recommended,1.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,2.5,26.5,7.5,8
+351,369,56,Adults (20–59),Male,2021-06-18,01:30:00,09:00:00,7.5,7–9,0.87,High,20,Within Recommended,0.0,Better than average,25.0,Low,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,1.5,25.5,9.0,6
+352,370,41,Adults (20–59),Male,2021-05-08,01:30:00,07:30:00,6.0,Below 7,0.72,Moderate,20,Within Recommended,2.0,Typical,25.0,Low,1.0,Low,No,1.0,Some (1–3 sessions),Weekend,1.5,25.5,7.5,5
+353,371,40,Adults (20–59),Female,2021-09-21,22:00:00,05:00:00,7.0,7–9,0.87,High,20,Within Recommended,1.0,Typical,50.0,Moderate,1.0,Low,No,3.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,9
+354,372,32,Adults (20–59),Female,2021-02-21,02:30:00,09:30:00,7.0,7–9,0.53,Low,20,Within Recommended,2.0,Typical,50.0,Moderate,2.0,Low,Yes,1.0,Some (1–3 sessions),Weekend,2.5,26.5,9.5,2
+355,373,29,Adults (20–59),Female,2021-02-24,22:00:00,06:00:00,8.0,7–9,0.72,Moderate,25,Within Recommended,3.0,Typical,25.0,Low,1.0,Low,No,2.0,Some (1–3 sessions),Weekday,22.0,22.0,6.0,2
+356,374,39,Adults (20–59),Male,2021-10-11,23:00:00,07:00:00,8.0,7–9,0.87,High,20,Within Recommended,1.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,23.0,23.0,7.0,10
+359,377,48,Adults (20–59),Male,2021-03-19,22:30:00,06:30:00,8.0,7–9,0.72,Moderate,22,Within Recommended,1.0,Typical,0.0,None,2.0,Low,No,0.0,None (0 sessions),Weekday,22.5,22.5,6.5,3
+360,378,21,Adults (20–59),Female,2021-04-14,00:00:00,08:00:00,8.0,7–9,0.81,Moderate,26,Above Recommended,4.0,Outside typical range,25.0,Low,0.0,None,No,1.0,Some (1–3 sessions),Weekday,0.0,24.0,8.0,4
+361,379,25,Adults (20–59),Male,2021-02-15,00:00:00,07:00:00,7.0,7–9,0.88,High,18,Below Recommended,0.0,Better than average,0.0,None,5.0,High,No,2.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,2
+363,381,35,Adults (20–59),Female,2021-02-10,21:30:00,04:30:00,7.0,7–9,0.83,Moderate,20,Within Recommended,1.0,Typical,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekday,21.5,21.5,4.5,2
+364,382,22,Adults (20–59),Male,2021-04-16,23:00:00,06:00:00,7.0,7–9,0.91,High,25,Within Recommended,1.0,Typical,75.0,Moderate,1.0,Low,No,4.0,Frequent (4–5 sessions),Weekday,23.0,23.0,6.0,4
+365,383,40,Adults (20–59),Male,2021-06-11,21:00:00,04:30:00,7.5,7–9,0.95,High,25,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.0,21.0,4.5,6
+366,384,39,Adults (20–59),Male,2021-02-26,22:00:00,07:00:00,9.0,7–9,0.9,High,20,Within Recommended,1.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,22.0,22.0,7.0,2
+367,385,40,Adults (20–59),Male,2021-09-25,21:00:00,04:00:00,7.0,7–9,0.95,High,18,Below Recommended,1.0,Typical,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekend,21.0,21.0,4.0,9
+368,386,32,Adults (20–59),Female,2021-10-11,00:00:00,08:00:00,8.0,7–9,0.9,High,24,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,0.0,24.0,8.0,10
+370,388,48,Adults (20–59),Female,2021-07-14,21:00:00,04:00:00,7.0,7–9,0.93,High,30,Above Recommended,1.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.0,21.0,4.0,7
+371,389,22,Adults (20–59),Female,2021-09-05,00:00:00,08:00:00,8.0,7–9,0.79,Moderate,26,Above Recommended,3.0,Typical,25.0,Low,0.0,None,No,1.0,Some (1–3 sessions),Weekend,0.0,24.0,8.0,9
+372,390,36,Adults (20–59),Female,2021-02-06,23:00:00,07:00:00,8.0,7–9,0.91,High,25,Within Recommended,1.0,Typical,50.0,Moderate,2.0,Low,No,4.0,Frequent (4–5 sessions),Weekend,23.0,23.0,7.0,2
+373,391,21,Adults (20–59),Male,2021-12-09,23:00:00,06:30:00,7.5,7–9,0.81,Moderate,18,Below Recommended,2.0,Typical,0.0,None,0.0,None,No,2.0,Some (1–3 sessions),Weekday,23.0,23.0,6.5,12
+374,392,37,Adults (20–59),Female,2021-08-24,00:30:00,05:30:00,5.0,Below 7,0.52,Low,28,Above Recommended,2.0,Typical,50.0,Moderate,4.0,Moderate,Yes,1.0,Some (1–3 sessions),Weekday,0.5,24.5,5.5,8
+375,393,37,Adults (20–59),Female,2021-08-30,23:00:00,06:00:00,7.0,7–9,0.52,Low,20,Within Recommended,3.0,Typical,0.0,None,3.0,Moderate,Yes,4.0,Frequent (4–5 sessions),Weekday,23.0,23.0,6.0,8
+376,394,56,Adults (20–59),Male,2021-04-30,21:30:00,04:30:00,7.0,7–9,0.84,Moderate,23,Within Recommended,3.0,Typical,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,21.5,21.5,4.5,4
+377,395,55,Adults (20–59),Female,2021-05-05,02:00:00,10:00:00,8.0,7–9,0.67,Low,20,Within Recommended,4.0,Outside typical range,50.0,Moderate,5.0,High,Yes,0.0,None (0 sessions),Weekday,2.0,26.0,10.0,5
+378,396,56,Adults (20–59),Male,2021-12-23,21:30:00,05:30:00,8.0,7–9,0.83,Moderate,27,Above Recommended,2.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.5,21.5,5.5,12
+379,397,57,Adults (20–59),Female,2021-03-25,01:30:00,08:30:00,7.0,7–9,0.63,Low,28,Above Recommended,1.0,Typical,50.0,Moderate,1.0,Low,No,1.0,Some (1–3 sessions),Weekday,1.5,25.5,8.5,3
+380,398,59,Adults (20–59),Female,2021-07-18,02:00:00,10:00:00,8.0,7–9,0.64,Low,22,Within Recommended,2.0,Typical,50.0,Moderate,2.0,Low,No,0.0,None (0 sessions),Weekend,2.0,26.0,10.0,7
+381,399,30,Adults (20–59),Female,2021-07-21,01:00:00,08:00:00,7.0,7–9,0.91,High,28,Above Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,0.0,None (0 sessions),Weekday,1.0,25.0,8.0,7
+382,400,32,Adults (20–59),Female,2021-08-02,02:30:00,10:00:00,7.5,7–9,0.82,Moderate,28,Above Recommended,3.0,Typical,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekday,2.5,26.5,10.0,8
+383,401,37,Adults (20–59),Female,2021-10-03,21:30:00,05:30:00,8.0,7–9,0.92,High,20,Within Recommended,1.0,Typical,25.0,Low,0.0,None,No,4.0,Frequent (4–5 sessions),Weekend,21.5,21.5,5.5,10
+384,402,48,Adults (20–59),Male,2021-02-01,01:30:00,09:00:00,7.5,7–9,0.92,High,20,Within Recommended,0.0,Better than average,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,1.5,25.5,9.0,2
+385,403,38,Adults (20–59),Male,2021-11-25,22:00:00,06:00:00,8.0,7–9,0.93,High,18,Below Recommended,0.0,Better than average,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,22.0,22.0,6.0,11
+386,404,58,Adults (20–59),Male,2021-11-06,21:30:00,05:30:00,8.0,7–9,0.87,High,27,Above Recommended,0.0,Better than average,0.0,None,3.0,Moderate,Yes,3.0,Some (1–3 sessions),Weekend,21.5,21.5,5.5,11
+387,406,56,Adults (20–59),Male,2021-08-15,02:00:00,07:30:00,5.5,Below 7,0.9,High,22,Within Recommended,0.0,Better than average,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekend,2.0,26.0,7.5,8
+388,407,53,Adults (20–59),Male,2021-04-17,22:30:00,05:30:00,7.0,7–9,0.82,Moderate,20,Within Recommended,2.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekend,22.5,22.5,5.5,4
+390,410,32,Adults (20–59),Female,2021-11-12,23:00:00,07:00:00,8.0,7–9,0.9,High,28,Above Recommended,0.0,Better than average,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,23.0,23.0,7.0,11
+391,411,58,Adults (20–59),Male,2021-10-02,02:00:00,09:00:00,7.0,7–9,0.68,Low,18,Below Recommended,1.0,Typical,0.0,None,4.0,Moderate,Yes,3.0,Some (1–3 sessions),Weekend,2.0,26.0,9.0,10
+392,412,53,Adults (20–59),Male,2021-09-27,00:00:00,07:00:00,7.0,7–9,0.82,Moderate,20,Within Recommended,3.0,Typical,0.0,None,0.0,None,No,2.0,Some (1–3 sessions),Weekday,0.0,24.0,7.0,9
+393,413,27,Adults (20–59),Female,2021-11-14,01:00:00,08:00:00,7.0,7–9,0.74,Moderate,18,Below Recommended,3.0,Typical,25.0,Low,0.0,None,No,1.0,Some (1–3 sessions),Weekend,1.0,25.0,8.0,11
+394,414,51,Adults (20–59),Male,2021-10-25,00:30:00,09:00:00,8.5,7–9,0.88,High,28,Above Recommended,1.0,Typical,50.0,Moderate,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,0.5,24.5,9.0,10
+395,415,28,Adults (20–59),Female,2021-09-19,00:00:00,08:00:00,8.0,7–9,0.72,Moderate,26,Above Recommended,1.0,Typical,25.0,Low,4.0,Moderate,No,1.0,Some (1–3 sessions),Weekend,0.0,24.0,8.0,9
+396,416,49,Adults (20–59),Male,2021-03-03,00:00:00,07:00:00,7.0,7–9,0.67,Low,23,Within Recommended,1.0,Typical,0.0,None,4.0,Moderate,No,0.0,None (0 sessions),Weekday,0.0,24.0,7.0,3
+397,417,49,Adults (20–59),Female,2021-01-04,22:00:00,05:00:00,7.0,7–9,0.87,High,25,Within Recommended,0.0,Better than average,0.0,None,0.0,None,No,5.0,Frequent (4–5 sessions),Weekday,22.0,22.0,5.0,1
+398,418,44,Adults (20–59),Male,2021-10-07,22:00:00,05:00:00,7.0,7–9,0.66,Low,20,Within Recommended,4.0,Outside typical range,0.0,None,3.0,Moderate,Yes,3.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,10
+399,419,51,Adults (20–59),Male,2021-07-26,22:00:00,07:00:00,9.0,7–9,0.66,Low,22,Within Recommended,1.0,Typical,0.0,None,2.0,Low,No,0.0,None (0 sessions),Weekday,22.0,22.0,7.0,7
+400,420,21,Adults (20–59),Male,2021-03-04,00:30:00,09:00:00,8.5,7–9,0.87,High,19,Below Recommended,0.0,Better than average,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,0.5,24.5,9.0,3
+401,421,55,Adults (20–59),Male,2021-10-04,21:30:00,04:30:00,7.0,7–9,0.51,Low,27,Above Recommended,4.0,Outside typical range,0.0,None,0.0,None,Yes,3.0,Some (1–3 sessions),Weekday,21.5,21.5,4.5,10
+402,422,44,Adults (20–59),Male,2021-05-05,22:30:00,05:30:00,7.0,7–9,0.79,Moderate,22,Within Recommended,4.0,Outside typical range,0.0,None,0.0,None,No,0.0,None (0 sessions),Weekday,22.5,22.5,5.5,5
+403,423,41,Adults (20–59),Female,2021-07-11,21:00:00,04:00:00,7.0,7–9,0.8,Moderate,20,Within Recommended,4.0,Outside typical range,25.0,Low,1.0,Low,No,0.0,None (0 sessions),Weekend,21.0,21.0,4.0,7
+404,424,41,Adults (20–59),Female,2021-10-17,00:30:00,08:00:00,7.5,7–9,0.55,Low,23,Within Recommended,1.0,Typical,50.0,Moderate,4.0,Moderate,Yes,1.0,Some (1–3 sessions),Weekend,0.5,24.5,8.0,10
+406,426,26,Adults (20–59),Female,2021-10-31,21:00:00,03:00:00,6.0,Below 7,0.88,High,28,Above Recommended,0.0,Better than average,50.0,Moderate,0.0,None,No,1.0,Some (1–3 sessions),Weekend,21.0,21.0,3.0,10
+407,427,26,Adults (20–59),Male,2021-05-12,23:00:00,06:00:00,7.0,7–9,0.88,High,18,Below Recommended,1.0,Typical,75.0,Moderate,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,23.0,23.0,6.0,5
+408,428,54,Adults (20–59),Male,2021-12-09,23:00:00,07:00:00,8.0,7–9,0.93,High,27,Above Recommended,0.0,Better than average,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekday,23.0,23.0,7.0,12
+409,429,23,Adults (20–59),Male,2021-01-11,01:00:00,09:00:00,8.0,7–9,0.63,Low,20,Within Recommended,2.0,Typical,0.0,None,5.0,High,No,3.0,Some (1–3 sessions),Weekday,1.0,25.0,9.0,1
+410,430,52,Adults (20–59),Male,2021-01-05,22:30:00,06:00:00,7.5,7–9,0.92,High,25,Within Recommended,1.0,Typical,0.0,None,0.0,None,No,4.0,Frequent (4–5 sessions),Weekday,22.5,22.5,6.0,1
+411,431,38,Adults (20–59),Female,2021-06-30,00:30:00,06:30:00,6.0,Below 7,0.8,Moderate,28,Above Recommended,1.0,Typical,50.0,Moderate,0.0,None,Yes,1.0,Some (1–3 sessions),Weekday,0.5,24.5,6.5,6
+412,432,37,Adults (20–59),Female,2021-10-20,23:00:00,06:00:00,7.0,7–9,0.92,High,25,Within Recommended,1.0,Typical,50.0,Moderate,1.0,Low,No,3.0,Some (1–3 sessions),Weekday,23.0,23.0,6.0,10
+413,433,55,Adults (20–59),Male,2021-04-27,01:00:00,09:00:00,8.0,7–9,0.77,Moderate,28,Above Recommended,3.0,Typical,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekday,1.0,25.0,9.0,4
+414,434,29,Adults (20–59),Female,2021-02-16,21:00:00,04:30:00,7.5,7–9,0.9,High,25,Within Recommended,0.0,Better than average,75.0,Moderate,0.0,None,Yes,2.0,Some (1–3 sessions),Weekday,21.0,21.0,4.5,2
+415,436,40,Adults (20–59),Female,2021-02-12,22:00:00,05:00:00,7.0,7–9,0.96,High,28,Above Recommended,0.0,Better than average,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,22.0,22.0,5.0,2
+416,437,59,Adults (20–59),Male,2021-06-10,21:30:00,05:30:00,8.0,7–9,0.72,Moderate,27,Above Recommended,2.0,Typical,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekday,21.5,21.5,5.5,6
+417,438,56,Adults (20–59),Male,2021-03-11,01:00:00,09:00:00,8.0,7–9,0.86,High,27,Above Recommended,0.0,Better than average,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekday,1.0,25.0,9.0,3
+418,439,55,Adults (20–59),Male,2021-04-14,01:30:00,07:30:00,6.0,Below 7,0.9,High,28,Above Recommended,1.0,Typical,0.0,None,3.0,Moderate,No,3.0,Some (1–3 sessions),Weekday,1.5,25.5,7.5,4
+419,440,25,Adults (20–59),Male,2021-11-30,23:00:00,06:30:00,7.5,7–9,0.5,Low,20,Within Recommended,4.0,Outside typical range,0.0,None,3.0,Moderate,Yes,3.0,Some (1–3 sessions),Weekday,23.0,23.0,6.5,11
+420,441,28,Adults (20–59),Female,2021-02-06,21:00:00,05:00:00,8.0,7–9,0.88,High,22,Within Recommended,0.0,Better than average,75.0,Moderate,0.0,None,Yes,2.0,Some (1–3 sessions),Weekend,21.0,21.0,5.0,2
+421,442,46,Adults (20–59),Male,2021-03-30,00:00:00,09:00:00,9.0,7–9,0.6,Low,23,Within Recommended,4.0,Outside typical range,0.0,None,3.0,Moderate,No,0.0,None (0 sessions),Weekday,0.0,24.0,9.0,3
+422,443,27,Adults (20–59),Female,2021-02-06,01:30:00,08:30:00,7.0,7–9,0.68,Low,23,Within Recommended,1.0,Typical,0.0,None,4.0,Moderate,No,1.0,Some (1–3 sessions),Weekend,1.5,25.5,8.5,2
+424,445,24,Adults (20–59),Male,2021-05-07,00:00:00,07:30:00,7.5,7–9,0.58,Low,24,Within Recommended,1.0,Typical,0.0,None,2.0,Low,Yes,0.0,None (0 sessions),Weekday,0.0,24.0,7.5,5
+425,446,30,Adults (20–59),Female,2021-11-16,23:00:00,06:30:00,7.5,7–9,0.53,Low,28,Above Recommended,4.0,Outside typical range,50.0,Moderate,2.0,Low,Yes,1.0,Some (1–3 sessions),Weekday,23.0,23.0,6.5,11
+426,447,23,Adults (20–59),Male,2021-04-21,00:00:00,07:00:00,7.0,7–9,0.5,Low,15,Below Recommended,2.0,Typical,0.0,None,4.0,Moderate,Yes,0.0,None (0 sessions),Weekday,0.0,24.0,7.0,4
+427,448,27,Adults (20–59),Female,2021-11-13,22:00:00,05:30:00,7.5,7–9,0.91,High,22,Within Recommended,0.0,Better than average,0.0,None,0.0,None,No,5.0,Frequent (4–5 sessions),Weekend,22.0,22.0,5.5,11
+428,449,52,Adults (20–59),Male,2021-03-31,21:00:00,03:00:00,6.0,Below 7,0.74,Moderate,28,Above Recommended,4.0,Outside typical range,25.0,Low,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.0,21.0,3.0,3
+429,450,40,Adults (20–59),Female,2021-09-07,23:00:00,07:30:00,8.5,7–9,0.55,Low,20,Within Recommended,1.0,Typical,0.0,None,3.0,Moderate,Yes,0.0,None (0 sessions),Weekday,23.0,23.0,7.5,9
+430,451,45,Adults (20–59),Male,2021-07-29,21:00:00,04:00:00,7.0,7–9,0.76,Moderate,18,Below Recommended,3.0,Typical,0.0,None,0.0,None,No,3.0,Some (1–3 sessions),Weekday,21.0,21.0,4.0,7
